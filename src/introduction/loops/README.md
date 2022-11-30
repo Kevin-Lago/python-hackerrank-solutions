@@ -1,4 +1,4 @@
-<p style="display: flex">
+<p style="width: 100%">
     <a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division">
         Previous
     </a>
