@@ -1,3 +1,13 @@
-<p style="display: flex"><a href="https://github.com/Kevin-Lago/python-hackerrank-solutions">Home</a><a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division">Previous</a><a href="https://github.com/Kevin-Lago/python-hackerrank-solutions">Home</a><a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function">Next</a></p>
+<p style="display: flex">
+    <a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division">
+        Previous
+    </a>
+    <a style="flex-grow: 3" href="https://github.com/Kevin-Lago/python-hackerrank-solutions">
+        Home
+    </a>
+    <a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function">
+        Next
+    </a>
+</p>
 
 # Loops
