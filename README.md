@@ -12,7 +12,16 @@
 
 ### Basic Data Types
 
+- [Lists]()
 - [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
+- [Find the Runner-Up Score!]()
+- [Nested Lists]()
+- [Finding the Percentage]()
+- [Tuples]()
+
+### Strings
+
+- []()
 
 ### numpy
 
