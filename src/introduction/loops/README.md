@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p style="width: 100%; text-align: center">
     <a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division">
         Previous
@@ -65,3 +66,19 @@ if __name__ == '__main__':
     for i in range(n):
         print(i * i)
 ```
+=======
+<a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division">
+    Previous
+</a>
+
+<a style="width: 100%;" href="https://github.com/Kevin-Lago/python-hackerrank-solutions">
+    Home
+</a>
+
+<a href="https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function">
+    Next
+</a>
+
+
+# Loops
+>>>>>>> 68ba22ec3ca19a2499936b628738a395fbc3f348
