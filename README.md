@@ -12,12 +12,12 @@
 
 ### Basic Data Types
 
-- [Lists]()
 - [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
-- [Find the Runner-Up Score!]()
-- [Nested Lists]()
-- [Finding the Percentage]()
-- [Tuples]()
+- [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/find_the_runner_up_score)
+- [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
+- [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
+- [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
+- [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
 
 ### Strings
 
