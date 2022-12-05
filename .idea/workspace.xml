@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/strings/mutations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/string_split_and_join/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/string_split_and_join/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/swap_case/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/swap_case/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/whats_your_name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/whats_your_name/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -28,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python-slack-bot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.solution (5)">
@@ -161,6 +168,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="557" y="114" key="CommitChangelistDialog2" timestamp="1670029140589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="114" key="CommitChangelistDialog2/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670029140589" />
     <state width="823" height="466" key="DebuggerActiveHint" timestamp="1669856864373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -209,11 +220,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669817380356" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1669853955703">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1670253035798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669837704595" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669853955703" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670253035798" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

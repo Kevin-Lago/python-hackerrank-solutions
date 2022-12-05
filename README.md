@@ -21,7 +21,7 @@
 
 ### Strings
 
-- []()
+- [sWAP cASE](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/swap_case)
 
 ### numpy
 
