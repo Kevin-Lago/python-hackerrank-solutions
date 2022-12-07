@@ -7,7 +7,10 @@ Python has built-in string validation methods for basic data. It can check if a 
 This method checks if all the caracters of a string are alphanumeric (a-z, A-Z, and 0-9).
 
 ```python
-
+>>> print 'ab123'.isalnum()
+True
+>>> print 'ab123#'.isalnum()
+False
 ```
 ---
 
@@ -16,7 +19,10 @@ This method checks if all the caracters of a string are alphanumeric (a-z, A-Z, 
 This method checks if all the characters of a string are alphabetical (a-z and A-Z).
 
 ```python
-
+>>> print 'abcD'.isalpha()
+True
+>>> print 'abcd1'.isalpha()
+False
 ```
 ---
 
@@ -25,7 +31,10 @@ This method checks if all the characters of a string are alphabetical (a-z and A
 This method checks if all the characters of a string are digits (0-9).
 
 ```python
-
+>>> print '1234'.isdigit()
+True
+>>> print '123edsd'.isdigit()
+False
 ```
 ---
 
@@ -34,7 +43,10 @@ This method checks if all the characters of a string are digits (0-9).
 This method checks if all the characters of a string are lowercase characters (a-z).
 
 ```python
-
+>>> print 'abcd123#'.islower()
+True
+>>> print 'Abcd123#'.islower()
+False
 ```
 ---
 
@@ -43,7 +55,10 @@ This method checks if all the characters of a string are lowercase characters (a
 This method checks if all the characters of a string are uppercase characters (A-Z).
 
 ```python
-
+>>> print 'ABCD123#'.isupper()
+True
+>>> print 'Abcd123#'.isupper()
+False
 ```
 ---
 
