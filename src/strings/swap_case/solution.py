@@ -1,10 +1,5 @@
 def swap_case(s):
-    newString = ""
-
-    for i in range(s):
-        
-
-    return
+    return s.swapcase()
 
 
 if __name__ == '__main__':
