@@ -1,8 +1,12 @@
-<div style="width: 100%; display: flex;">
-    <div style="text-align: left">another test</div>
-    <div style="text-align: center; width: 100%">test</div>
-    <div style="text-align: right"> your-text-here </div>
+<div style="width: 100%">
+    <div style="text-align: left">Previous Question</div>
+    <div style="text-align: center">Home</div>
+    <div style="text-align: right">Next Question</div>
 </div>
+
+| [Previous Question]() | [Home]() | [Next Question]() |
+|:----------------------|:--------:|------------------:|
+| <div></div>           | <div style="width: 290px"></div> ||
 
 # Finding the percentage
 
