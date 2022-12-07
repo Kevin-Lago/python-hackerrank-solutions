@@ -66,7 +66,7 @@ __3 * 2 = 6__
 __Solution__
 
 <details>
-    <summary></summary>
+    <summary><p style="font-weight: bold">Solution</p></summary>
 
     ```python
     if __name__ == '__main__':
