@@ -12,16 +12,6 @@
 - [x] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
 </details>
 
-<details><summary><h3></h3></summary>
-    
-- [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
-- [ ] [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/find_the_runner_up_score)
-- [ ] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
-- [ ] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
-- [x] [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
-- [ ] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
-</details>
-
 <details><summary><h3>Basic Data Types</h3></summary>
 
 - [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
@@ -79,13 +69,13 @@
 
 <details><summary><h3>Itertools</h3></summary>
 
-- [ ] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
-- [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
+- [ ] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_product)
+- [ ] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_permutations)
+- [ ] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations)
+- [ ] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations_with_replacements)
+- [ ] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/compress_the_string)
+- [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/iterables_and_iterators)
+- [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/maximize_it)
 </details>
 
 <details><summary><h3>Collections</h3></summary>
