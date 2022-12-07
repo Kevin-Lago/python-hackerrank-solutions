@@ -1,4 +1,4 @@
-<div>
+<div style="width: 100%; display: flex;">
     <div style="text-align: left">another test</div>
     <div style="text-align: center; width: 100%">test</div>
     <div style="text-align: right"> your-text-here </div>
