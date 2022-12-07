@@ -66,15 +66,16 @@ __3 * 2 = 6__
 __Solution__
 
 <details>
-    <summary><p style="font-weight: bold">Solution</p></summary>
-
-    ```python
-    if __name__ == '__main__':
-        a = int(input())
-        b = int(input())
-    
-        print(a + b)
-        print(a - b)
-        print(a * b)
-    ```
+    <summary>Solution</summary>
+    <pre>
+        ```python
+            if __name__ == '__main__':
+                a = int(input())
+                b = int(input())
+            
+                print(a + b)
+                print(a - b)
+                print(a * b)
+        ```
+    </pre>
 </details>
