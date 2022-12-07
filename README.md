@@ -1,7 +1,6 @@
 # Python Hackerrank Solutions
 
-<details>
-    <summary><h3>Introduction</h3></summary>
+<details><summary><h3>Introduction</h3></summary>
     
 - [x] [Say "Hello, World!" With Python](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/say_hello_world_in_python)
 - [x] [Python If-Else](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_if_else)

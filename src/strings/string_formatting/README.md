@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)</img> |
+|:---|:---:|---:|
+
 # String Formatting
 
 Given an integer, ___n___, print the following values for each integer ___i___ from __1__ to ____n____:
@@ -58,8 +61,11 @@ __Sample Output__
    17    21    11 10001
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 
 ```
+</details>

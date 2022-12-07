@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatter)</img> |
+|:---|:---:|---:|
+
 # Capitalize!
 
 You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, ```alison heck``` should be capitalized correctly as ```Alison Heck```.
@@ -34,8 +37,10 @@ __Sample Output__
 Chris Alan
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 import os
 
@@ -55,3 +60,4 @@ if __name__ == '__main__':
 
     fptr.close()
 ```
+</details>

@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/find_a_string)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_alignment)</img> |
+|:---|:---:|---:|
+
 # String Validators
 
 Python has built-in string validation methods for basic data. It can check if a string is composed of alphabetical characters, alphanumeric characters, digits, ect.
@@ -104,8 +107,10 @@ True
 True
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     s = input()
@@ -135,9 +140,10 @@ if __name__ == '__main__':
     print(haslower)
     print(hasupper)
 ```
+</details>
 
-__Better Solution__
-
+<details><summary>Better Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     s = input()
@@ -147,9 +153,10 @@ if __name__ == '__main__':
     print(any([c.islower() for c in s]))
     print(any([c.isupper() for c in s]))
 ```
+</details>
 
-__Interesting Solution__
-
+<details><summary>Interesting Solution</summary>
+    
 ```python
 def check(s, func_list):
         res = []
@@ -164,3 +171,4 @@ if __name__ == '__main__':
     for r in res:
             print(r)
 ```
+</details>

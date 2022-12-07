@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/mutations)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_validators)</img> |
+|:---|:---:|---:|
+
 # Find a String
 
 In this challenge, the user enters a string and substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
@@ -54,8 +57,10 @@ range(0, 5)
 
 Here, the range loops over __0__ to __4__. __5__ is excluded.
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 def count_substring(string, sub_string):
     substring_count = 0
@@ -74,4 +79,5 @@ if __name__ == '__main__':
     count = count_substring(string, sub_string)
     print(count)
 ```
+</details>
  

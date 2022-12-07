@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_alignment)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)</img> |
+|:---|:---:|---:|
+
 # Text Wrap
 
 You are given a string ___string___ and width ___max_width___.
@@ -49,8 +52,10 @@ UVWX
 YZ
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 import textwrap
 
@@ -64,3 +69,4 @@ if __name__ == '__main__':
     result = wrap(string, max_width)
     print(result)
 ```
+</details>

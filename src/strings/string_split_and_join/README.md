@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/case_swap)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/whats_your_name)</img> |
+|:---|:---:|---:|
+
 # String Split and Join
 
 In python, a string can be split on a delimiter.
@@ -51,8 +54,10 @@ __Sample Output__
 this-is-a-string
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 def split_and_join(line):
     split_line = line.split(" ")
@@ -64,4 +69,4 @@ if __name__ == '__main__':
     result = split_and_join(line)
     print(result)
 ```
-
+</details>

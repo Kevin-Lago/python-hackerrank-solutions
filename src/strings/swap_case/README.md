@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_split_and_join)</img> |
+|:---|:---:|---:|
+
 # sWAP cASE
 
 You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice verse.
@@ -41,8 +44,10 @@ __Sample Output 0__
 hACKERrANK.COM PRESENTS "pYTHONIST 2".
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 def swap_case(s):
     return s.swapcase()
@@ -53,3 +58,4 @@ if __name__ == '__main__':
     result = swap_case(s)
     print(result)
 ```
+</details>

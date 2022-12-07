@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_split_and_join)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/mutations)</img> |
+|:---|:---:|---:|
+
 # What's Your Name?
 
 You are given the firstname and lastname of a person on two different lines. Your task is to read them and print the following:
@@ -45,8 +48,10 @@ __Explanation 0__
 
 The input read by the program is stored as a string data type. A string is a collection of characters.
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 def print_full_name(first, last):
     print(f"Hello {first} {last}! You just delved into python.")
@@ -57,3 +62,4 @@ if __name__ == '__main__':
     last_name = input()
     print_full_name(first_name, last_name)
 ```
+</details>

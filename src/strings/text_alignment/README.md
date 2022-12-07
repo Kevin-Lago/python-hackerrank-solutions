@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_validators)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_wrap)</img> |
+|:---|:---:|---:|
+
 # Text Alignment
 
 In Python, a string of text can be aligned left, right and center.
@@ -86,8 +89,10 @@ HHHHHHHHH
                         H 
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     thickness = int(input()) #This must be an odd number
@@ -113,3 +118,4 @@ if __name__ == '__main__':
     for i in range(thickness):
         print(((c*(thickness-i-1)).rjust(thickness)+c+(c*(thickness-i-1)).ljust(thickness)).rjust(thickness*6))
 ```
+</details>

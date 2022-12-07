@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_wrap)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)</img> |
+|:---|:---:|---:|
+
 # Designer Door Mat
 
 Mr. Vincent works in a door mat manufacturing company. One day, he designed a new door mat with the following specifications:
@@ -68,8 +71,11 @@ __Sample Output__
 ------------.|.------------
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 
 ```
+</details>

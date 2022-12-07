@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)</img> |
+|:---|:---:|---:|
+
 # The Minion Game
 
 Kevin and Stuart want to play the '__The Minion Game__'.
@@ -70,8 +73,11 @@ __Note:__
 
 Vowels are only defined as ```AEIOU```. In this problem, ```Y``` is not considered a vowel.
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 
 ```
+</details>

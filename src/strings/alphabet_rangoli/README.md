@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)</img> |
+|:---|:---:|---:|
+
 # Alphabet Rangoli
 
 You are given an integer, ___n___. Your task is to print an alphabet rangoli of size ___n___. (Rangoli is a form of indian folk art based on creating of patterns.)
@@ -90,8 +93,11 @@ e-d-c-b-a-b-c-d-e
 --------e--------
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 
 ```
+</details>
