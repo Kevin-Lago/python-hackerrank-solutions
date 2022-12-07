@@ -1,4 +1,17 @@
-# python-hackerrank-solutions
+# Python Hackerrank Solutions
+
+<details>
+    <summary><h3>Introduction</h3></summary>
+    
+- [x] [Say "Hello, World!" With Python](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/say_hello_world_in_python)
+- [x] [Python If-Else](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_if_else)
+- [x] [Arithmetic Operators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/arithmetic_operators)
+- [x] [Python: Division](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division)
+- [x] [Loops](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/loops)
+- [x] [Write a Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function)
+- [x] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
+    
+</details>
 
 ### Introduction
 
