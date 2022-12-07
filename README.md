@@ -10,20 +10,19 @@
 - [x] [Loops](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/loops)
 - [x] [Write a Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function)
 - [x] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
-    
 </details>
 
-### Introduction
+<details><summary><h3></h3></summary>
+    
+- [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
+- [ ] [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/find_the_runner_up_score)
+- [ ] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
+- [ ] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
+- [x] [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
+- [ ] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
+</details>
 
-- [x] [Say "Hello, World!" With Python](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/say_hello_world_in_python)
-- [x] [Python If-Else](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_if_else)
-- [x] [Arithmetic Operators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/arithmetic_operators)
-- [x] [Python: Division](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division)
-- [x] [Loops](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/loops)
-- [x] [Write a Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function)
-- [x] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
-
-### Basic Data Types
+<details><summary><h3>Basic Data Types</h3></summary>
 
 - [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
 - [ ] [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/find_the_runner_up_score)
@@ -31,8 +30,9 @@
 - [ ] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
 - [x] [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
 - [ ] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
+</details>
 
-### Strings
+<details><summary><h3>Strings</h3></summary>
 
 - [x] [sWAP cASE](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/swap_case)
 - [x] [String Split and Join](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_split_and_join)
@@ -48,8 +48,9 @@
 - [ ] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
 - [ ] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
 - [ ] [Merge The Tools!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)
+</details>
 
-### Sets
+<details><summary><h3>Sets</h3></summary>
 
 - [ ] [Introduction to Sets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/introduction_to_sets)
 - [ ] [No Idea!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/no_idea)
@@ -64,8 +65,9 @@
 - [ ] [The Captain's Room](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/the_captains_room)
 - [ ] [Check Subset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_subset)
 - [ ] [Check Strict Superset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_strict_superset)
+</details>
 
-### Math
+<details><summary><h3>Math</h3></summary>
 
 - [ ] [Polar Coordinates](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/polar_coordinates)
 - [ ] [Find Angle MBC](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/find_angle_mbc)
@@ -73,8 +75,9 @@
 - [ ] [Mod Divmod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/mod_divmod)
 - [ ] [Power - Mod Power](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/power_mod_power)
 - [ ] [Integers Come In All Sizes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/integers_come_in_all_sizes)
+</details>
 
-### Itertools
+<details><summary><h3>Itertools</h3></summary>
 
 - [ ] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
 - [ ] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
@@ -83,8 +86,9 @@
 - [ ] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
 - [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
 - [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/)
+</details>
 
-### Collections
+<details><summary><h3>Collections</h3></summary>
 
 - [ ] [collections.Counter()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_counter)
 - [ ] [DefaultDict Tutorial](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/defaultdict_tutorial)
@@ -94,23 +98,27 @@
 - [ ] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_deque)
 - [ ] [Company Logo](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/company_logo)
 - [ ] [Piling Up!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/piling_up)
+</details>
 
-### Date and Time
+<details><summary><h3>Date and Time</h3></summary>
 
 - [ ] [Calendar Module](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/calendar_module)
 - [ ] [Time Delta](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/time_delta)
+</details>
 
-### Errors and Exceptions
+<details><summary><h3>Errors and Exceptions</h3></summary>
 
 - [ ] [Exceptions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/exceptions)
 - [ ] [Incorrect Regex](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/incorrect_regex)
+</details>
 
-### Classes
+<details><summary><h3>Classes</h3></summary>
 
 - [ ] [Classes: Dealing With Complex Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/classes/classes_dealing_with_complex_numbers)
 - [ ] [Class 2 - Find the Torsional Angle](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/classes/class_2_find_the_torsional_angle)
+</details>
 
-### Built-Ins
+<details><summary><h3>Built-Ins</h3></summary>
 
 - [ ] [Zipped!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/zipped)
 - [ ] [Input()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/input)
@@ -118,14 +126,16 @@
 - [ ] [Athlete Sort](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/athlete_sort)
 - [ ] [Any or All](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/any_or_all)
 - [ ] [ginortS](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/ginorts)
+</details>
 
-### Python Functionals
+<details><summary><h3>Python Functionals</h3></summary>
 
 - [ ] [Map and Lambda Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/map_and_lambda_function)
 - [ ] [Validating Email Addresses With a Filter](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/validating_email_addresses_with_a_filter)
 - [ ] [Reduce Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/reduce_function)
+</details>
 
-### Regex and Parsing
+<details><summary><h3>Regex and Parsing</h3></summary>
 
 - [ ] [Detect Floating Point Number](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/detect_floating_point_number)
 - [ ] [Re.split()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_split)
@@ -144,18 +154,21 @@
 - [ ] [Validating Credit Card Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_credit_card_numbers)
 - [ ] [Validating Postal Codes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_postal_codes)
 - [ ] [Matrix Script](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/matrix_script)
+</details>
 
-### XML
+<details><summary><h3>XML</h3></summary>
 
 - [ ] [XML 1 - Find the Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml_1_find_the_score)
 - [ ] [XML2 - Find the Maximum Depth](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml2_find_the_maximum_depth)
+</details>
 
-### Closures and Decorators
+<details><summary><h3>Closures and Decorators</h3></summary>
 
 - [ ] [Standardize Mobile Number Using Decorators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
 - [ ] [Decorators 2 - Name Directory](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
+</details>
 
-### Numpy
+<details><summary><h3>Numpy</h3></summary>
 
 - [ ] [Arrays](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/arrays)
 - [ ] [Shape and Reshape](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/shape_and_reshape)
@@ -172,8 +185,12 @@
 - [ ] [Inner and Outer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/inner_and_outer)
 - [ ] [Polynomials](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/polynomials)
 - [ ] [Linear Algebra](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/linear_algebra)
+</details>
 
-### Debugging
+<details><summary><h3>Debugging</h3></summary>
 
 - [ ] [Words Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/words_score)
 - [ ] [Default Arguments](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/default_arguments)
+</details>
+
+# Problem Solving
