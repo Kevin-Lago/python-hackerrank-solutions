@@ -4,9 +4,8 @@
     <div style="text-align: right">Next Question</div>
 </div>
 
-| [Previous Question]() | [Home]() | [Next Question]() |
+| <div>[Previous Question]()</div> | <div style="width: 290px">[Home]()</div> | <div>[Next Question]()</div> |
 |:----------------------|:--------:|------------------:|
-| <div></div>           | <div style="width: 290px"></div> ||
 
 # Finding the percentage
 
