@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strings/merge_the_tools/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/merge_the_tools/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/the_minion_game/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/the_minion_game/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/arithmetic_operators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/arithmetic_operators/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -65,12 +65,16 @@ __3 * 2 = 6__
 
 __Solution__
 
-```python
-if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
+<details>
+    <summary></summary>
 
-    print(a + b)
-    print(a - b)
-    print(a * b)
-```
+    ```python
+    if __name__ == '__main__':
+        a = int(input())
+        b = int(input())
+    
+        print(a + b)
+        print(a - b)
+        print(a * b)
+    ```
+</details>
