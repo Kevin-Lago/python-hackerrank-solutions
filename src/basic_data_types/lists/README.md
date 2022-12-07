@@ -84,8 +84,10 @@ __Sample Output 0__
 [9, 5, 1]
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     n = int(input())
@@ -109,3 +111,4 @@ if __name__ == '__main__':
         except():
             print("command does not exist")
 ```
+</details>

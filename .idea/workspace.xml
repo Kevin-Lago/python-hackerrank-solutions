@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/introduction/arithmetic_operators/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/arithmetic_operators/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_data_types/finding_the_percentage/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_data_types/finding_the_percentage/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/finding_the_percentage/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_data_types/list_comprehesions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/list_comprehesions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_data_types/lists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/lists/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/loops/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/loops/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/print_function/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/print_function/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/python_division/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/python_division/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/python_if_else/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/python_if_else/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/say_hello_world_in_python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/say_hello_world_in_python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/introduction/write_a_function/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/write_a_function/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -46,8 +46,10 @@ __Explanation 0__
 
 1990 is not a multiple of 4 hence it's not a leap year
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 def is_leap(year):
     leap = False
@@ -57,3 +59,4 @@ def is_leap(year):
 
     return leap
 ```
+</details>

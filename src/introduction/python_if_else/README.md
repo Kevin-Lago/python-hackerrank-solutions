@@ -60,8 +60,10 @@ ___n_ = 24__
 
 ___n_ > 20__ and ___n___ is even, so it is not weird.
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     n = int(input().strip())
@@ -73,3 +75,4 @@ if __name__ == '__main__':
     else:
         print("Not Weird")
 ```
+</details>

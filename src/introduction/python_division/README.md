@@ -49,8 +49,10 @@ __Sample Output 0__
 1.33333333333
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     a = int(input())
@@ -59,3 +61,4 @@ if __name__ == '__main__':
     print(a // b)
     print(a / b)
 ```
+</details>

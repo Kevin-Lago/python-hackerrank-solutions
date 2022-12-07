@@ -38,9 +38,11 @@ __Sample Output 0__
 123
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 
 ```
-
+</details>

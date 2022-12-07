@@ -29,9 +29,12 @@ __Sample Output 0__
 Hello, World!
 ```
 
-__Solution__
+---
 
+<details><summary>Solution</summary>
+    
 ```python
 if __name__ == '__main__':
     print("Hello, World!")
 ```
+</details>
