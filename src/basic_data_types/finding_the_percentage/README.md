@@ -1,4 +1,8 @@
-<div style="text-align: right"> your-text-here </div>
+<div>
+    <div style="text-align: left">another test</div>
+    <div style="text-align: center; width: 100%">test</div>
+    <div style="text-align: right"> your-text-here </div>
+</div>
 
 # Finding the percentage
 
