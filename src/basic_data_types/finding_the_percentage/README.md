@@ -4,7 +4,7 @@
     <div style="text-align: right">Next Question</div>
 </div>
 
-| <div>[Previous Question]() <img width=100/></div> | <div><img width=100/> [Home]() <img width=100/></div> | <div><img width=100/>[Next Question]()</div> |
+| [Previous Question]() <img width=1000/> | <div><img width=1000/> [Home]() <img width=1000/></div> | <div><img width=1000/>[Next Question]()</div> |
 |:----------------------|:--------:|------------------:|
 
 # Finding the percentage
