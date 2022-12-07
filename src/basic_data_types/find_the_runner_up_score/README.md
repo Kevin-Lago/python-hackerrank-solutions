@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehensions)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)</img> |
+|:---|:---:|---:|
+
 # Find the Runner-Up Score!
 
 Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given ___n___ scores. Store them in a list and find the score of the runner-up.

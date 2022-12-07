@@ -1,3 +1,6 @@
+| <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_if_else)</img> |
+|:---:|---:|
+
 # Say "Hello, World!" With Python
 
 Here is a sample line of code that can be executed in Python:

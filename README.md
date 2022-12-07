@@ -8,7 +8,7 @@
 - [x] [Python: Division](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/python_division)
 - [x] [Loops](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/loops)
 - [x] [Write a Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function)
-- [ ] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
+- [x] [Print Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/print_function)
 
 ### Basic Data Types
 

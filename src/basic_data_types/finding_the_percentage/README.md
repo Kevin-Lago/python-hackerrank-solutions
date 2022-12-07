@@ -1,11 +1,5 @@
-<div style="width: 100%">
-    <div style="text-align: left">Previous Question</div>
-    <div style="text-align: center">Home</div>
-    <div style="text-align: right">Next Question</div>
-</div>
-
-| <img width=1000>[Previous Question]()</img> | <img width=1000> [Home]() </img> | <img width=1000>[Next Question]()</img> |
-|:----------------------|:--------:|------------------:|
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)</img> |
+|:---|:---:|---:|
 
 # Finding the percentage
 

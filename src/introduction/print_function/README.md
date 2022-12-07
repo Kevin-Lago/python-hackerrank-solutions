@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/introduction/write_a_function)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehensions)</img> |
+|:---|:---:|---:|
+
 # Print Function
 
 The included code stub will read an integer, ___n___, from STDIN.
@@ -43,6 +46,10 @@ __Sample Output 0__
 <details><summary>Solution</summary>
     
 ```python
+if __name__ == '__main__':
+    n = int(input())
 
+    for i in range(n):
+        print(i + 1, end="")
 ```
 </details>
