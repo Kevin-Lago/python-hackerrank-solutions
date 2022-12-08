@@ -35,7 +35,7 @@
 - [ ] [Alphabet Rangoli](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)
 - [x] [Capitalize!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)
 - [ ] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
-- [ ] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
+- [x] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
 - [ ] [Merge The Tools!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)
 </details>
 

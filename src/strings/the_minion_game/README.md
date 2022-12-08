@@ -78,6 +78,20 @@ Vowels are only defined as ```AEIOU```. In this problem, ```Y``` is not consider
 <details><summary>Solution</summary>
     
 ```python
+def minion_game(string):
+    s = sum([len(string) - i for i, c in enumerate(string) if c not in 'AEIOU'])
+    k = sum([len(string) - i for i, c in enumerate(string) if c in 'AEIOU'])
 
+    if k > s:
+        print(f"Kevin {k}")
+    elif s > k:
+        print(f"Stuart {s}")
+    else:
+        print(f"Draw")
+
+
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
 ```
 </details>

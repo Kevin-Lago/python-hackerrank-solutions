@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/class_2_find_the_torsional_angle/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/class_2_find_the_torsional_angle/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.md" beforeDir="false" afterPath="$PROJECT_DIR$/base.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/merge_the_tools/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/merge_the_tools/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/the_minion_game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/the_minion_game/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/the_minion_game/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/the_minion_game/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
+  <component name="RunManager" selected="Python.solution (5)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/strings/designer_door_mat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/strings/the_minion_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/strings/designer_door_mat/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/strings/the_minion_game/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -180,42 +175,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669856194923" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1670463301197">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1670472402386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463301197" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1670463301197">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472402386" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1670472402386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463301197" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1670463301197">
+    <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472402386" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1670472402386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463301197" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1670463301197">
+    <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472402386" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1670472402386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463301197" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1670463303047">
+    <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472402386" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1670472399350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463303047" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1670463303047">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472399350" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1670472399350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463303047" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1670463303047">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472399350" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1670472399350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463303047" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1670463303047">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472399350" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1670472399350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670463303047" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670472399350" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1669817380356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -225,6 +220,10 @@
     </state>
     <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669837704595" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670253035798" />
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1670465211176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670465211176" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,6 +277,11 @@
           <url>file://$PROJECT_DIR$/src/basic_data_types/find_the_runner_up_score/solution.py</url>
           <line>4</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/strings/the_minion_game/solution.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
