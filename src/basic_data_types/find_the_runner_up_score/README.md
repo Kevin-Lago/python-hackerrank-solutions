@@ -41,6 +41,13 @@ Given list is __[2,3,6,6,5]__. The maximum score is __6__, second maximum is __5
 <details><summary>Solution</summary>
     
 ```python
+if __name__ == '__main__':
+    n = int(input())
+    arr = list(map(int, input().split()))
 
+    max_value = max(arr)
+    arr = list(filter(lambda e: e != max_value, arr))
+
+    print(max(arr))
 ```
 </details>
