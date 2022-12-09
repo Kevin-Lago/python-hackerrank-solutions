@@ -41,19 +41,19 @@
 
 <details><summary><h3>Sets</h3></summary>
 
-- [ ] [Introduction to Sets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/introduction_to_sets)
-- [ ] [No Idea!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/no_idea)
-- [ ] [Symmetric Difference](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/symmetric_difference)
-- [ ] [Set ,add()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_add)
-- [ ] [Set .discard(), .remove() & .pop()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_discard_remove_and_pop)
-- [ ] [Set .union() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_union_operation)
-- [ ] [Set .intersection() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_intersection_operation)
-- [ ] [Set .difference() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_difference_operation)
-- [ ] [Set .symmetric_difference() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_symmetric_difference_operation)
-- [ ] [Set Mutations](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_mutations)
-- [ ] [The Captain's Room](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/the_captains_room)
-- [ ] [Check Subset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_subset)
-- [ ] [Check Strict Superset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_strict_superset)
+- [x] [Introduction to Sets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/introduction_to_sets)
+- [x] [No Idea!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/no_idea)
+- [x] [Symmetric Difference](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/symmetric_difference)
+- [x] [Set ,add()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_add)
+- [x] [Set .discard(), .remove() & .pop()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_discard_remove_and_pop)
+- [x] [Set .union() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_union_operation)
+- [x] [Set .intersection() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_intersection_operation)
+- [x] [Set .difference() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_difference_operation)
+- [x] [Set .symmetric_difference() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_symmetric_difference_operation)
+- [x] [Set Mutations](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_mutations)
+- [x] [The Captain's Room](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/the_captains_room)
+- [x] [Check Subset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_subset)
+- [x] [Check Strict Superset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/check_strict_superset)
 </details>
 
 <details><summary><h3>Math</h3></summary>
