@@ -3,7 +3,13 @@
 
 # No Idea!
 
-There is an array of ___n___ integers. There are also __2 disjoin sets__, ___a___ and ___b___, each containing ___m___ integers. You like all the integers in set ___a___ and dislike all the integers in set ___b___. You initial happiness is __0__. For each ___i___ integer in the array, if $x \in A$
+There is an array of ___n___ integers. There are also __2 disjoin sets__, ___a___ and ___b___, each containing ___m___ integers. You like all the integers in set ___a___ and dislike all the integers in set ___b___. You initial happiness is __0__. For each ___i___ integer in the array, if $i \in a$, you add __-1__ to your happiness. Otherwise, your happiness does not change. Output your final happiness at the end.
+
+__Note:__ Since ___a___ and ___b___ are sets, they have no repeated elements. However, the array might contain duplicate elements.
+
+__Constraints__
+
+$1 \le n \le 10^{5}$
 
 ---
 
