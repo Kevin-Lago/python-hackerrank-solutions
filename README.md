@@ -44,7 +44,7 @@
 - [x] [Introduction to Sets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/introduction_to_sets)
 - [x] [No Idea!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/no_idea)
 - [x] [Symmetric Difference](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/symmetric_difference)
-- [x] [Set ,add()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_add)
+- [x] [Set .add()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_add)
 - [x] [Set .discard(), .remove() & .pop()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_discard_remove_and_pop)
 - [x] [Set .union() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_union_operation)
 - [x] [Set .intersection() Operation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/sets/set_intersection_operation)
@@ -91,8 +91,8 @@
 
 <details><summary><h3>Date and Time</h3></summary>
 
-- [ ] [Calendar Module](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/calendar_module)
-- [ ] [Time Delta](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/time_delta)
+- [x] [Calendar Module](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/calendar_module)
+- [x] [Time Delta](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/date_and_time/time_delta)
 </details>
 
 <details><summary><h3>Errors and Exceptions</h3></summary>
