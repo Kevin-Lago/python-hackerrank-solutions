@@ -97,8 +97,8 @@
 
 <details><summary><h3>Errors and Exceptions</h3></summary>
 
-- [ ] [Exceptions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/exceptions)
-- [ ] [Incorrect Regex](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/incorrect_regex)
+- [x] [Exceptions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/exceptions)
+- [x] [Incorrect Regex](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/errors_and_exceptions/incorrect_regex)
 </details>
 
 <details><summary><h3>Classes</h3></summary>
