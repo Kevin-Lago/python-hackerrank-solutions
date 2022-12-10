@@ -178,8 +178,8 @@
 
 <details><summary><h3>Debugging</h3></summary>
 
-- [ ] [Words Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/words_score)
-- [ ] [Default Arguments](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/default_arguments)
+- [x] [Words Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/words_score)
+- [x] [Default Arguments](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/debugging/default_arguments)
 </details>
 
 # Problem Solving
