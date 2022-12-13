@@ -18,7 +18,7 @@
 - [ ] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
 - [ ] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
 - [x] [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
-- [ ] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
+- [x] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
 </details>
 
 <details><summary><h3>Strings</h3></summary>
