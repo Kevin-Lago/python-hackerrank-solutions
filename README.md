@@ -68,20 +68,20 @@
 
 <details><summary><h3>Itertools</h3></summary>
 
-- [ ] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_product)
-- [ ] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_permutations)
-- [ ] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations)
-- [ ] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations_with_replacements)
-- [ ] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/compress_the_string)
+- [x] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_product)
+- [x] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_permutations)
+- [x] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations)
+- [x] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/itertools_combinations_with_replacements)
+- [x] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/compress_the_string)
 - [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/iterables_and_iterators)
 - [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/itertools/maximize_it)
 </details>
 
 <details><summary><h3>Collections</h3></summary>
 
-- [ ] [collections.Counter()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_counter)
-- [ ] [DefaultDict Tutorial](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/defaultdict_tutorial)
-- [ ] [Collections.namedtuple()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_namedtuple)
+- [x] [collections.Counter()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_counter)
+- [x] [DefaultDict Tutorial](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/defaultdict_tutorial)
+- [x] [Collections.namedtuple()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_namedtuple)
 - [ ] [Collections.OrderedDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_ordereddict)
 - [ ] [Word Order](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/word_order)
 - [ ] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_deque)
@@ -109,10 +109,10 @@
 
 <details><summary><h3>Built-Ins</h3></summary>
 
-- [ ] [Zipped!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/zipped)
-- [ ] [Input()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/input)
-- [ ] [Python Evaluation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/python_evaluation)
-- [ ] [Athlete Sort](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/athlete_sort)
+- [x] [Zipped!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/zipped)
+- [x] [Input()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/input)
+- [x] [Python Evaluation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/python_evaluation)
+- [x] [Athlete Sort](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/athlete_sort)
 - [ ] [Any or All](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/any_or_all)
 - [ ] [ginortS](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/ginorts)
 </details>
@@ -159,12 +159,12 @@
 
 <details><summary><h3>Numpy</h3></summary>
 
-- [ ] [Arrays](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/arrays)
-- [ ] [Shape and Reshape](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/shape_and_reshape)
-- [ ] [Transpose and Flatten](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/transpose_and_flatten)
-- [ ] [Concatenate](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/concatenate)
-- [ ] [Zeroes and Ones](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/zeros_and_ones)
-- [ ] [Eye and Identity](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/eye_and_identity)
+- [x] [Arrays](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/arrays)
+- [x] [Shape and Reshape](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/shape_and_reshape)
+- [x] [Transpose and Flatten](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/transpose_and_flatten)
+- [x] [Concatenate](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/concatenate)
+- [x] [Zeroes and Ones](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/zeros_and_ones)
+- [x] [Eye and Identity](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/eye_and_identity)
 - [ ] [Array Mathematics](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/array_mathematics)
 - [ ] [Floor, Ceil and Rint](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/floor_ceil_and_rint)
 - [ ] [Sum and Prod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/sum_and_prod)
