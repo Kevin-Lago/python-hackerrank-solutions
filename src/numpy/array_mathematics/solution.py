@@ -1,10 +1,9 @@
 import numpy
-numpy.printoptions(legacy='1.13')
 
 if __name__ == '__main__':
     n, m = map(int, input().split())
-    a = numpy.array(input().split(), int)
-    b = numpy.array(input().split(), int)
+    a = numpy.array([numpy.array(input().split(), int) for i in range(n)])
+    b = numpy.array([numpy.array(input().split(), int) for i in range(n)])
 
     print(numpy.add(a, b))
     print(numpy.subtract(a, b))

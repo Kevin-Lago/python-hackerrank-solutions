@@ -15,8 +15,8 @@
 
 - [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/list_comprehesions)
 - [x] [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/find_the_runner_up_score)
-- [ ] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
-- [ ] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
+- [x] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/nested_lists)
+- [x] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/finding_the_percentage)
 - [x] [Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/lists)
 - [x] [Tuples](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/basic_data_types/tuples)
 </details>
@@ -34,7 +34,7 @@
 - [ ] [Designer Door Mat](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)
 - [ ] [Alphabet Rangoli](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)
 - [x] [Capitalize!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)
-- [ ] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
+- [x] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
 - [x] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
 - [ ] [Merge The Tools!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)
 </details>
@@ -165,15 +165,15 @@
 - [x] [Concatenate](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/concatenate)
 - [x] [Zeroes and Ones](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/zeros_and_ones)
 - [x] [Eye and Identity](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/eye_and_identity)
-- [ ] [Array Mathematics](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/array_mathematics)
-- [ ] [Floor, Ceil and Rint](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/floor_ceil_and_rint)
-- [ ] [Sum and Prod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/sum_and_prod)
-- [ ] [Min and Max](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/min_and_max)
-- [ ] [Mean, Var, and Std](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/mean_var_and_std)
-- [ ] [Dot and Cross](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/dot_and_cross)
-- [ ] [Inner and Outer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/inner_and_outer)
-- [ ] [Polynomials](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/polynomials)
-- [ ] [Linear Algebra](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/linear_algebra)
+- [x] [Array Mathematics](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/array_mathematics)
+- [x] [Floor, Ceil and Rint](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/floor_ceil_and_rint)
+- [x] [Sum and Prod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/sum_and_prod)
+- [x] [Min and Max](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/min_and_max)
+- [x] [Mean, Var, and Std](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/mean_var_and_std)
+- [x] [Dot and Cross](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/dot_and_cross)
+- [x] [Inner and Outer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/inner_and_outer)
+- [x] [Polynomials](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/polynomials)
+- [x] [Linear Algebra](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/linear_algebra)
 </details>
 
 <details><summary><h3>Debugging</h3></summary>

@@ -90,6 +90,9 @@ __Sample Output__
 <details><summary>Solution</summary>
     
 ```python
+import numpy
 
+if __name__ == '__main__':
+    print(numpy.polyval(list(map(float, input().split())), int(input())))
 ```
 </details>
