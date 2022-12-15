@@ -1,3 +1,6 @@
+| <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/floor_ceil_and_rint)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/numpy/min_and_max)</img> |
+|:---|:---:|---:|
+
 # Sum and Prod
 
 __Sum__
@@ -71,3 +74,18 @@ __Explanation__
 The usm along axis __0__ = __[4, 6]__
 
 The product of this sum = __24__
+
+---
+
+<details><summary>Solution</summary>
+    
+```python
+import numpy
+
+if __name__ == '__main__':
+    n, m = map(int, input().split())
+    a = [numpy.array(list(map(int, input().split()))) for i in range(n)]
+
+    print(numpy.product(numpy.sum(a, 0)))
+```
+</details>
