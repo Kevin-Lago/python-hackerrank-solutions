@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/built_ins/any_or_all/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/any_or_all/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/built_ins/any_or_all/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/any_or_all/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/built_ins/ginorts/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/ginorts/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
