@@ -3,8 +3,11 @@ import math
 
 class Complex(object):
     def __init__(self, real, imaginary):
+        self.real = real
+        self.imaginary = imaginary
 
     def __add__(self, no):
+
 
     def __sub__(self, no):
 
@@ -13,6 +16,7 @@ class Complex(object):
     def __truediv__(self, no):
 
     def mod(self):
+
 
     def __str__(self):
         if self.imaginary == 0:

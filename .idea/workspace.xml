@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/map_and_lambda_function/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/reduce_function/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/reduce_function/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/validating_email_addresses_with_a_filter/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_functionals/map_and_lambda_function/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_functionals/map_and_lambda_function/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python_functionals/validating_email_addresses_with_a_filter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/python_functionals/validating_email_addresses_with_a_filter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/built_ins/any_or_all/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/any_or_all/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/built_ins/any_or_all/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/any_or_all/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/built_ins/ginorts/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/built_ins/ginorts/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/classes_dealing_with_complex_numbers/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +47,7 @@
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\built_ins\python_evaluation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
-    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-hackerrank-solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/xml/xml2_find_the_maximum_depth" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/xml/xml2_find_the_maximum_depth/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.solution (2)">
     <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/xml/xml_1_find_the_score" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/built_ins/ginorts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/xml/xml_1_find_the_score/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/built_ins/ginorts/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-hackerrank-solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/built_ins/any_or_all" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/built_ins/any_or_all/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (2)" />
+        <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,42 +198,42 @@
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1671341257439" />
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669856194923" />
-    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1671436564083">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1671437313178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="347" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436564083" />
-    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1671436564083">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437313178" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1671437313178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="347" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436564083" />
-    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1671436564083">
+    <state width="1899" height="290" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437313178" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1671437313178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="347" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436564083" />
-    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1671436564083">
+    <state width="1899" height="290" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437313178" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1671437313178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="347" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436564083" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1671436555052">
+    <state width="1899" height="290" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437313178" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1671437115043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436555052" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1671436555052">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437115043" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1671437115043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436555052" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1671436555052">
+    <state width="1899" height="347" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437115043" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1671437115043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436555052" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1671436555052">
+    <state width="1899" height="347" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437115043" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1671437115043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671436555052" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671437115043" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1671342634974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -443,6 +442,11 @@
           <url>file://$PROJECT_DIR$/src/python_functionals/reduce_function/solution.py</url>
           <line>5</line>
           <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/built_ins/any_or_all/solution.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="207" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -113,7 +113,7 @@
 - [x] [Input()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/input)
 - [x] [Python Evaluation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/python_evaluation)
 - [x] [Athlete Sort](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/athlete_sort)
-- [ ] [Any or All](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/any_or_all)
+- [x] [Any or All](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/any_or_all)
 - [ ] [ginortS](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/built_ins/ginorts)
 </details>
 
@@ -126,16 +126,16 @@
 
 <details><summary><h3>Regex and Parsing</h3></summary>
 
-- [ ] [Detect Floating Point Number](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/detect_floating_point_number)
-- [ ] [Re.split()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_split)
-- [ ] [Group(), Groups() & GroupDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/group_groups_and_groupdict)
-- [ ] [Re.findall() & Re.finditer()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_findall_and_re_finditer)
-- [ ] [Re.start() & Re.end()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_start_and_re_end)
-- [ ] [Regex Substitution](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/regex_substitution)
-- [ ] [Validating Roman Numerals](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_roman_numerals)
-- [ ] [Validating phone numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_phone_numbers)
+- [x] [Detect Floating Point Number](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/detect_floating_point_number)
+- [x] [Re.split()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_split)
+- [x] [Group(), Groups() & GroupDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/group_groups_and_groupdict)
+- [x] [Re.findall() & Re.finditer()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_findall_and_re_finditer)
+- [x] [Re.start() & Re.end()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/re_start_and_re_end)
+- [x] [Regex Substitution](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/regex_substitution)
+- [x] [Validating Roman Numerals](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_roman_numerals)
+- [x] [Validating phone numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_phone_numbers)
 - [ ] [Validating and Parsing Email Addresses](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_and_parsing_email_addresses)
-- [ ] [Hex Color Code](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/hex_color_code)
+- [x] [Hex Color Code](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/hex_color_code)
 - [ ] [HTML Parser - Part 1](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/html_parser_part_1)
 - [ ] [HTML Parser - Part 2](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/html_parser_part_2)
 - [ ] [Detect HTML Tags, Attributes and Attribute Values](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/detect_html_tags_attributes_and_attribute_values)
