@@ -147,14 +147,14 @@
 
 <details><summary><h3>XML</h3></summary>
 
-- [ ] [XML 1 - Find the Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml_1_find_the_score)
-- [ ] [XML2 - Find the Maximum Depth](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml2_find_the_maximum_depth)
+- [x] [XML 1 - Find the Score](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml_1_find_the_score)
+- [x] [XML2 - Find the Maximum Depth](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/xml/xml2_find_the_maximum_depth)
 </details>
 
 <details><summary><h3>Closures and Decorators</h3></summary>
 
-- [ ] [Standardize Mobile Number Using Decorators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
-- [ ] [Decorators 2 - Name Directory](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
+- [x] [Standardize Mobile Number Using Decorators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
+- [x] [Decorators 2 - Name Directory](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/closures_and_decorators)
 </details>
 
 <details><summary><h3>Numpy</h3></summary>
