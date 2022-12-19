@@ -119,9 +119,9 @@
 
 <details><summary><h3>Python Functionals</h3></summary>
 
-- [ ] [Map and Lambda Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/map_and_lambda_function)
-- [ ] [Validating Email Addresses With a Filter](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/validating_email_addresses_with_a_filter)
-- [ ] [Reduce Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/reduce_function)
+- [x] [Map and Lambda Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/map_and_lambda_function)
+- [x] [Validating Email Addresses With a Filter](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/validating_email_addresses_with_a_filter)
+- [x] [Reduce Function](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python_functionals/reduce_function)
 </details>
 
 <details><summary><h3>Regex and Parsing</h3></summary>
