@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/company_logo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/piling_up/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/word_order/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/find_angle_mbc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/integers_come_in_all_sizes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/mod_divmod/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/power_mod_power/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/triangle_quest/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/triangle_quest_2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/map_and_lambda_function/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/python_functionals/validating_email_addresses_with_a_filter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/detect_html_tags_attributes_and_attribute_values/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/hex_color_code/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/hex_color_code/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/html_parse_part_2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/html_parser_part_1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/matrix_script/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/re_start_and_re_end/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/re_start_and_re_end/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/regex_substitution/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/regex_substitution/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_and_parsing_email_addresses/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_and_parsing_email_addresses/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_credit_card_numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_phone_numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_phone_numbers/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_postal_codes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_roman_numerals/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_roman_numerals/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/validating_uid/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/xml2_find_the_maximum_depth/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xml/xml_1_find_the_score/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regex_and_parsing/html_parser_part_1/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex_and_parsing/re_findall_and_re_finditer/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex_and_parsing/re_findall_and_re_finditer/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regex_and_parsing/html_parse_part_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex_and_parsing/html_parser_part_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regex_and_parsing/html_parser_part_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex_and_parsing/html_parser_part_1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +47,7 @@
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\built_ins\python_evaluation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (3)">
+  <component name="RunManager" selected="Python.solution (4)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/regex_and_parsing/regex_substitution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/regex_and_parsing/regex_substitution/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution (2)" />
-        <item itemvalue="Python.solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,10 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="709" y="323" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670986060530" />
-    <state x="679" y="146" key="#solution_(4)" timestamp="1671327578891">
+    <state x="679" y="146" key="#solution_(4)" timestamp="1671427290729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="146" key="#solution_(4)/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671327578891" />
+    <state x="679" y="146" key="#solution_(4)/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671427290729" />
     <state x="557" y="114" key="CommitChangelistDialog2" timestamp="1670029140589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -226,50 +198,50 @@
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1671341257439" />
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669856194923" />
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.0.bottom" timestamp="1671428417684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417684" />
+    <state width="938" height="347" key="GridCell.Tab.0.center" timestamp="1671428417684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="344" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417684" />
+    <state width="938" height="347" key="GridCell.Tab.0.left" timestamp="1671428417684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="344" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417684" />
+    <state width="938" height="347" key="GridCell.Tab.0.right" timestamp="1671428417684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="344" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.1.bottom" timestamp="1671405724282">
+    <state width="938" height="347" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417684" />
+    <state width="938" height="347" key="GridCell.Tab.1.bottom" timestamp="1671428417619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724282" />
-    <state width="1899" height="344" key="GridCell.Tab.1.center" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417619" />
+    <state width="938" height="347" key="GridCell.Tab.1.center" timestamp="1671428417619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.1.left" timestamp="1671405724281">
+    <state width="938" height="347" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417619" />
+    <state width="938" height="347" key="GridCell.Tab.1.left" timestamp="1671428417619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724281" />
-    <state width="1899" height="344" key="GridCell.Tab.1.right" timestamp="1671405724282">
+    <state width="938" height="347" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417619" />
+    <state width="938" height="347" key="GridCell.Tab.1.right" timestamp="1671428417619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671405724282" />
+    <state width="938" height="347" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428417619" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1671342634974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671342634974" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1670893776171">
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1671428252343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1670893776171" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1671428252343" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1671319714441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -438,9 +410,9 @@
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/regex_and_parsing/hex_color_code/solution.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="179" />
+          <url>file://$PROJECT_DIR$/src/closures_and_decorators/decorators_2_name_directory/solution.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
