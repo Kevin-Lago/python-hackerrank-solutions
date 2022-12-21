@@ -31,12 +31,12 @@
 - [x] [String Validators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_validators)
 - [x] [Text Alignment](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_alignment)
 - [x] [Text Wrap](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_wrap)
-- [ ] [Designer Door Mat](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)
+- [x] [Designer Door Mat](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)
 - [ ] [Alphabet Rangoli](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)
 - [x] [Capitalize!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)
 - [x] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
 - [x] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
-- [ ] [Merge The Tools!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)
+- [x] [Merge The Tools!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/merge_the_tools)
 
 <h3>Sets</h3>
 
