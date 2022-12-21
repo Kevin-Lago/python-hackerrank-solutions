@@ -80,7 +80,7 @@
 - [x] [Collections.namedtuple()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_namedtuple)
 - [ ] [Collections.OrderedDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_ordereddict)
 - [ ] [Word Order](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/word_order)
-- [ ] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_deque)
+- [x] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_deque)
 - [ ] [Company Logo](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/company_logo)
 - [ ] [Piling Up!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/piling_up)
 
@@ -131,8 +131,8 @@
 - [x] [Detect HTML Tags, Attributes and Attribute Values](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/detect_html_tags_attributes_and_attribute_values)
 - [x] [Validating UID](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_uid)
 - [x] [Validating Credit Card Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_credit_card_numbers)
-- [ ] [Validating Postal Codes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_postal_codes)
-- [ ] [Matrix Script](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/matrix_script)
+- [x] [Validating Postal Codes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_postal_codes)
+- [x] [Matrix Script](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/matrix_script)
 
 <h3>XML</h3>
 

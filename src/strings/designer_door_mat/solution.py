@@ -1,20 +1,10 @@
-def generate_mat(n, m):
-    for y in range(n):
-        for x in range(m):
-            print()
-            print("-"*m/2-7+"WELCOME"+"-"*m/2-7)
-
-
 if __name__ == '__main__':
-    n, m = int(input().split(" "))
-    s = '-'
+    n, m = map(int, input().split())
+    ch = int((m - 3) / 2)
+    rh = int((n - 1) / 2)
 
-    print((s*int(m)).center(m))
-
-    for y in range(int(n)):
-        if (y == int(int(n) / 2) - 1):
-            print("".join("-" for i in range(int((int(m) - 7) / 2)))+"WELCOME"+"".join("-" for i in range(int((int(m) - 7) / 2))))
-        else:
-            print()
-    print(n, m)
-
+    [print("-" * (ch - (3 * r)) + ".|." * (2 * (r + 1) - 1) + "-" * (ch - (3 * r))) for r in range(rh)]
+    print("-" * int((m - 7) / 2) + "WELCOME" + "-" * int((m - 7) / 2))
+    [print(
+        "-" * (ch - (3 * (rh - r - 1))) + ".|." * (2 * (rh - r) - 1) + "-" * (ch - (3 * (rh - r - 1)))
+    ) for r in range(rh)]
