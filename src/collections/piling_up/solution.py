@@ -5,4 +5,10 @@ if __name__ == '__main__':
         n = int(input())
         b = list(map(int, input().split()))
 
-        print(b)
+        for i in range(len(b)):
+            for j in range(i, len(b)):
+                if b[j] < b[i]:
+                    print("No")
+                    break
+
+        print("Yes")
