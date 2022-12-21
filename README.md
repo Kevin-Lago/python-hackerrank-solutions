@@ -32,7 +32,7 @@
 - [x] [Text Alignment](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_alignment)
 - [x] [Text Wrap](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/text_wrap)
 - [x] [Designer Door Mat](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/designer_door_mat)
-- [ ] [Alphabet Rangoli](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)
+- [x] [Alphabet Rangoli](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/alphabet_rangoli)
 - [x] [Capitalize!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/capitalize)
 - [x] [String Formatting](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/string_formatting)
 - [x] [The Minion Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/strings/the_minion_game)
@@ -57,11 +57,11 @@
 <h3>Math</h3>
 
 - [ ] [Polar Coordinates](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/polar_coordinates)
-- [ ] [Find Angle MBC](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/find_angle_mbc)
-- [ ] [Triangle Quest 2](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/triangle_quest_2)
-- [ ] [Mod Divmod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/mod_divmod)
-- [ ] [Power - Mod Power](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/power_mod_power)
-- [ ] [Integers Come In All Sizes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/integers_come_in_all_sizes)
+- [x] [Find Angle MBC](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/find_angle_mbc)
+- [x] [Triangle Quest 2](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/triangle_quest_2)
+- [x] [Mod Divmod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/mod_divmod)
+- [x] [Power - Mod Power](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/power_mod_power)
+- [x] [Integers Come In All Sizes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/math/integers_come_in_all_sizes)
 
 <h3>Itertools</h3>
 
@@ -78,10 +78,10 @@
 - [x] [collections.Counter()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_counter)
 - [x] [DefaultDict Tutorial](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/defaultdict_tutorial)
 - [x] [Collections.namedtuple()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_namedtuple)
-- [ ] [Collections.OrderedDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_ordereddict)
-- [ ] [Word Order](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/word_order)
+- [x] [Collections.OrderedDict()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_ordereddict)
+- [x] [Word Order](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/word_order)
 - [x] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/collections_deque)
-- [ ] [Company Logo](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/company_logo)
+- [x] [Company Logo](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/company_logo)
 - [ ] [Piling Up!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/collections/piling_up)
 
 <h3>Date and Time</h3>
@@ -124,7 +124,7 @@
 - [x] [Regex Substitution](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/regex_substitution)
 - [x] [Validating Roman Numerals](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_roman_numerals)
 - [x] [Validating phone numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_phone_numbers)
-- [ ] [Validating and Parsing Email Addresses](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_and_parsing_email_addresses)
+- [x] [Validating and Parsing Email Addresses](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/validating_and_parsing_email_addresses)
 - [x] [Hex Color Code](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/hex_color_code)
 - [x] [HTML Parser - Part 1](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/html_parser_part_1)
 - [x] [HTML Parser - Part 2](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/regex_and_parsing/html_parser_part_2)

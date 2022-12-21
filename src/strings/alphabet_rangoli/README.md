@@ -98,6 +98,27 @@ e-d-c-b-a-b-c-d-e
 <details><summary>Solution</summary>
     
 ```python
+def print_rangoli(size):
+    for n in [abs(r) for r in range(-(size - 1), size)]:
+        center = '-'.join([chr(ord('a') + abs(i) + n) for i in range(-(size - n - 1), (size - n))])
+        print(2 * n * '-' + center + 2 * n * '-')
+```
 
+or
+
+```python
+def print_rangoli(size):
+    [print(2 * n * '-' + '-'.join([chr(ord('a') + abs(i) + n) for i in range(-(size - n - 1), (size - n))]) + 2 * n * '-') for n in [abs(r) for r in range(-(size - 1), size)]]
+```
+
+or
+
+```python
+def print_rangoli(size):
+    [[
+        print(2 * n * '-', end=""), 
+        print('-'.join([chr(ord('a') + abs(i) + n) for i in range(-(size - n - 1), (size - n))]), end=""),
+        print(2 * n * '-')
+    ] for n in [abs(r) for r in range(-(size - 1), size)]]
 ```
 </details>
