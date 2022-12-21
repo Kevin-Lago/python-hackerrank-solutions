@@ -59,6 +59,13 @@ Picking $5$ from the $1^st$ list, $9$ from the $2^nd$ list and $10$ from the $3^
 <details><summary>Solution</summary>
     
 ```python
+from itertools import product
 
+if __name__ == '__main__':
+    k, m = map(int, input().split())
+    n = [list(map(int, input().split()))[1:] for i in range(k)]
+
+    cartesian_product = list(product(*n))
+    print(max([sum([e**2 for e in cartesian_product[i]]) % m for i in range(len(cartesian_product))]))
 ```
 </details>
