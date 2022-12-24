@@ -1,14 +1,30 @@
+from collections import deque
+
 if __name__ == '__main__':
     t = int(input())
 
     for i in range(t):
         n = int(input())
-        b = list(map(int, input().split()))
+        d = deque(map(int, input().split()))
+        can_stack = True
+        top = 0
 
-        for i in range(len(b)):
-            for j in range(i, len(b)):
-                if b[j] < b[i]:
-                    print("No")
-                    break
+        if d[0] > d[-1]:
+            top = d[0]
+            d.popleft()
+        else:
+            top = d[-1]
+            d.pop()
 
-        print("Yes")
+        while d:
+            if d[0] >= d[-1] <= top:
+                top = d[0]
+                d.popleft()
+            elif d[0] < d[-1] <= top:
+                top = d[-1]
+                d.pop()
+            else:
+                can_stack = False
+                break
+
+        print("Yes" if can_stack else "No")
