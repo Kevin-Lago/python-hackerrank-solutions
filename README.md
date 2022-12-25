@@ -14,7 +14,7 @@
 
 <h3>Basic Data Types</h3>
 
-- [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/basic_data_types/list_comprehesions)
+- [x] [List Comprehensions](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/basic_data_types/list_comprehensions)
 - [x] [Find the Runner-Up Score!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/basic_data_types/find_the_runner_up_score)
 - [x] [Nested Lists](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/basic_data_types/nested_lists)
 - [x] [Finding the Percentage](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/basic_data_types/finding_the_percentage)
