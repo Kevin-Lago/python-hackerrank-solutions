@@ -7,16 +7,22 @@ class Complex(object):
         self.imaginary = imaginary
 
     def __add__(self, no):
-
+        return __class__(self.real + no.real, self.imaginary + no.imaginary)
 
     def __sub__(self, no):
+        return __class__(self.real - no.real, self.imaginary - no.imaginary)
 
     def __mul__(self, no):
+        prod = complex(self.real, self.imaginary) * complex(no.real, no.imaginary)
+        return __class__(prod.real, prod.imag)
 
     def __truediv__(self, no):
+        prod = complex(self.real, self.imaginary) / complex(no.real, no.imaginary)
+        return __class__(prod.real, prod.imag)
 
     def mod(self):
-
+        m = math.sqrt(self.real**2 + self.imaginary**2)
+        return __class__(m, 0)
 
     def __str__(self):
         if self.imaginary == 0:
