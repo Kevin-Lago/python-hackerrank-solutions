@@ -25,7 +25,7 @@ $s = 'AAABCADDE'$
 
 $k = 3$
 
-There are three substrings of length $3$ to consider: 'AAA', 'BCA' and 'DDE'. The first substring is all 'A' characters, so $u_{i} = 'A'. The second substring has all distinct characters, so $u_{2} = 'BCA'$. The third substring has $2$ different characters, so $u_{3} = 'DE'$. Note that a subsequence maintains the original order of characters encountered. The order of characters in each subsequence shown is important.
+There are three substrings of length $3$ to consider: 'AAA', 'BCA' and 'DDE'. The first substring is all 'A' characters, so $u_{i} = 'A'$. The second substring has all distinct characters, so $u_{2} = 'BCA'$. The third substring has $2$ different characters, so $u_{3} = 'DE'$. Note that a subsequence maintains the original order of characters encountered. The order of characters in each subsequence shown is important.
 
 __Function Description__
 
