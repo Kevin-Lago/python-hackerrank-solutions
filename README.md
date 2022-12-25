@@ -106,7 +106,7 @@
 - [x] [Python Evaluation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/built_ins/python_evaluation)
 - [x] [Athlete Sort](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/built_ins/athlete_sort)
 - [x] [Any or All](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/built_ins/any_or_all)
-- [ ] [ginortS](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/built_ins/ginorts)
+- [x] [ginortS](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/built_ins/ginorts)
 
 <h3>Python Functionals</h3>
 
