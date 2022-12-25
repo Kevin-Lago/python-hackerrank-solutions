@@ -1,7 +1,7 @@
 | <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/triangle_quest_2)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/power_mod_power)</img> |
 |:---|:---:|---:|
 
-# Math Divmod
+# Mod Divmod
 
 One of the built-in functions of Python is divmod, which takes two arguments $a$ and $b$ and returns a tuple containing the quotient of $a / b$ first and then the remainder $a$.
 
