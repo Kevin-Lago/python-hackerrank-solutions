@@ -56,7 +56,7 @@
 
 <h3>Math</h3>
 
-- [ ] [Polar Coordinates](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/polar_coordinates)
+- [x] [Polar Coordinates](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/polar_coordinates)
 - [x] [Find Angle MBC](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/find_angle_mbc)
 - [x] [Triangle Quest 2](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/triangle_quest_2)
 - [x] [Mod Divmod](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/math/mod_divmod)
@@ -70,8 +70,8 @@
 - [x] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_combinations)
 - [x] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_combinations_with_replacement)
 - [x] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/compress_the_string)
-- [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/iterables_and_iterators)
-- [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/maximize_it)
+- [x] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/iterables_and_iterators)
+- [x] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/maximize_it)
 
 <h3>Collections</h3>
 
@@ -82,7 +82,7 @@
 - [x] [Word Order](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/collections/word_order)
 - [x] [Collections.deque()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/collections/collections_deque)
 - [x] [Company Logo](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/collections/company_logo)
-- [ ] [Piling Up!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/collections/piling_up)
+- [x] [Piling Up!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/collections/piling_up)
 
 <h3>Date and Time</h3>
 
@@ -96,8 +96,8 @@
 
 <h3>Classes</h3>
 
-- [ ] [Classes: Dealing With Complex Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/classes/classes_dealing_with_complex_numbers)
-- [ ] [Class 2 - Find the Torsional Angle](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/classes/class_2_find_the_torsional_angle)
+- [x] [Classes: Dealing With Complex Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/classes/classes_dealing_with_complex_numbers)
+- [x] [Class 2 - Find the Torsional Angle](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/classes/class_2_find_the_torsional_angle)
 
 <h3>Built-Ins</h3>
 
