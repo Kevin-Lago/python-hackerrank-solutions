@@ -68,7 +68,7 @@
 - [x] [itertools.product()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_product)
 - [x] [itertools.permutations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_permutations)
 - [x] [itertools.combinations()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_combinations)
-- [x] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_combinations_with_replacements)
+- [x] [itertools.combinations_with_replacement()](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/itertools_combinations_with_replacement)
 - [x] [Compress the String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/compress_the_string)
 - [ ] [Iterables and Iterators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/iterables_and_iterators)
 - [ ] [Maximize It!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/itertools/maximize_it)
