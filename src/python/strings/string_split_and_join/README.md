@@ -8,23 +8,36 @@ In python, a string can be split on a delimiter.
 __Example__
 
 ```python
->>> a = "this is a string"
->>> a = a.split(" ") # a is converted to a list of strings.
->>> print(a)
+a = "this is a string"
+a = a.split(" ") # a is converted to a list of strings.
+print(a)
+```
+
+prints
+
+```
 ['this', 'is', 'a', 'string']
 ```
 
 Joining a string is simple:
 
 ```python
->>> a = "-".join(a)
->>> print(a)
+a = "this is a string"
+a = "-".join(a)
+print(a)
+```
+
+prints
+
+```
 this-is-a-string
 ```
 
+---
+
 __Task__
 
-You are given a string. Split the string on a "``` ```" (space) delimitr and join using a ```-``` hyphen.
+You are given a string. Split the string on a "``` ```" (space) delimiter and join using a ```-``` hyphen.
 
 __Function Description__
 

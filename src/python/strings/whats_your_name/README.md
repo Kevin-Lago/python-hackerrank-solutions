@@ -5,9 +5,7 @@
 
 You are given the firstname and lastname of a person on two different lines. Your task is to read them and print the following:
 
-```
-Hello firstname lastname! You just delved into python.
-```
+> Hello ```firstname``` ```lastname```! You just delved into python.
 
 __Function Description__
 
@@ -21,7 +19,7 @@ print_full_name has the following parameters:
 
 __Prints__
 
-- string: 'Hello ___firstname lastname___! You just delved into python' where ___firstname___ and ___lastname___ are replace with ___first___ and ___last___.
+- string: 'Hello $firstname lastname$! You just delved into python' where $firstname$ and $lastname$ are replace with $first$ and $last$.
 
 __Input Format__
 
@@ -29,22 +27,22 @@ The first line contains the first name, and the second line contains the last na
 
 __Constraints__
 
-The length of the first and last names are each <= __10__.
+The length of the first and last names are each $\le 10$.
 
-__Sample Input 0__
+__Sample Input__
 
 ```
 Ross
 Taylor
 ```
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 Hello Ross Taylor! You just delved into python.
 ```
 
-__Explanation 0__
+__Explanation__
 
 The input read by the program is stored as a string data type. A string is a collection of characters.
 

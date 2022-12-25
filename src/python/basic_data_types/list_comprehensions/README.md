@@ -3,27 +3,29 @@
 
 # List Comprehensions 
 
-Let's learn about list comprehensions! You are given three integers _x_, _y_ and _z_ representing the dimensions of a cuboid along with an integer _n_. Print a list of all possible coordinates given by (_i_, _j_, _k_) on a 3D grid where the sum of _i_ + _j_ + _k_ is not equal to _n_. Here, 0 <= _i_ <= _x_; 0 <= j <= y; 0 <= k <= z. Please use list comprehensions rather than multiple loops, as a learning exercise.
+Let's learn about list comprehensions! You are given three integers $x$, $y$ and $z$ representing the dimensions of a cuboid along with an integer $n$. Print a list of all possible coordinates given by $(i, j, k)$ on a 3D grid where the sum of $i + j + k$ is not equal to $n$. Here, $0 \le i \le x; 0 \le j \le y; 0 \le k \le z$. Please use list comprehensions rather than multiple loops, as a learning exercise.
 
 __Example__
 
-_x_ = 1
+$x = 1$
 
-_y_ = 1
+$y = 1$
 
-_z_ = 2
+$z = 2$
 
-_n_ = 3
+$n = 3$
 
-All permutations of [_i_, _j_, _k_] are:
+All permutations of $[i, j, k]$ are:
 
-__[[0, 0, 0], [0, 0, 1], [0, 0, 2], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 2]]__
+$[[0, 0, 0], [0, 0, 1], [0, 0, 2], [0, 1, 0], [0, 1, 1], [0, 1, 2], [1, 0, 0], [1, 0, 1], [1, 0, 2], [1, 1, 0], [1, 1, 1], [1, 1, 2]]$
 
-Print an array of elements that do not sum to _n_ = 3.
+Print an array of elements that do not sum to $n = 3$.
+
+$[[0, 0, 0], [0, 0, 1], [0, 0, 2], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 2]]$
 
 __Input Format__
 
-Four integers _x_, _y_, _z_ and _n_, each on a separate line.
+Four integers $x$, $y$, $z$ and $n$, each on a separate line.
 
 __Constraints__
 
@@ -46,11 +48,11 @@ __Sample Output 0__
 
 __Explanation 0__
 
-Each variable _x_, _y_, _z_ will have values of 0 or 1. All permutations of lists in the form 
+Each variable $x$, $y$, $z$ will have values of $0$ or $1$. All permutations of lists in the form 
 
-__[_i_, _j_, _k_] = [[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]__
+$[i, j, k] = [[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]$
 
-Remove all arrays that sum to _n_ = 2 to leave only the valid permutations.
+Remove all arrays that sum to $n = 2$ to leave only the valid permutations.
 
 __Sample Input 1__
 

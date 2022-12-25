@@ -3,31 +3,31 @@
 
 # Print Function
 
-The included code stub will read an integer, ___n___, from STDIN.
+The included code stub will read an integer, $n$, from STDIN.
 
 Without using any string methods, try to print the following:
 
-__123 ... _n___
+$123...n$
 
 Note that "..." represents the consecutive values in between.
 
 __Example__
 
-___n_ = 5__
+$n = 5$
 
-Print the string __12345__.
+Print the string $12345$.
 
 __Input Format__
 
-The first line contains an integer _n_.
+The first line contains an integer $n$.
 
 __Constraints__
 
-__1 <= _n_ <= 150__
+- $1 \le n \le 150$
 
 __Output Format__
 
-Print the list of integers from __1__ through ___n___ as a string, without spaces.
+Print the list of integers from $1$ through $n$ as a string, without spaces.
 
 __Sample Input 0__
 

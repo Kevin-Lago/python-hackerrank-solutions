@@ -26,7 +26,7 @@ __Output Format__
 
 Print ```Hello, World!``` to stdout.
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 Hello, World!

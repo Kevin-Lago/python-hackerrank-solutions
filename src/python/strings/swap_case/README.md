@@ -26,19 +26,19 @@ __Returns__
 
 __Input Format__
 
-A single line containing a string ___s___
+A single line containing a string $s$
 
 __Constraints__
 
-__0 < _len(s) <= 100__
+- 0 < len(s) \le 1000$
 
-__Sample Input 0__
+__Sample Input__
 
 ```
 HackerRank.com presents "Pythonist 2".
 ```
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 hACKERrANK.COM PRESENTS "pYTHONIST 2".

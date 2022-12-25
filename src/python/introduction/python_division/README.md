@@ -5,7 +5,7 @@
 
 __Task__
 
-The provided code stub reads two integers, ___a___ and ___b___, from STDIN.
+The provided code stub reads two integers, $a$ and $b$, from STDIN.
 
 Add logic to print two lines. The first line should contain the result of integer division ___a // b___. The second line should contain the result of float division, ___a / b___.
 
@@ -13,13 +13,13 @@ No rounding or formatting is necessary.
 
 __Example__
 
-___a_ = 3__
+$a = 3$
 
-___b_ = 5__
+$b = 5$
 
-- The result of integer division __3//5 = 0__.
+- The result of integer division $3 / 5 = 0$.
 
-- The result of float division is __3/5 = 0.6__.
+- The result of float division is $3 / 5 = 0.6$.
 
 Print:
 
@@ -30,9 +30,9 @@ Print:
 
 __Input Format__
 
-The first line contains the first integer , ___a___.
+The first line contains the first integer, $a$.
 
-The second line contains the second integer, ___b___.
+The second line contains the second integer, $b$.
 
 __Output Format__
 

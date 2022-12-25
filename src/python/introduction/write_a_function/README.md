@@ -23,29 +23,29 @@ Note that the code stub provided reads from STDIN and passes the arguments to th
 
 __Input Format__
 
-Read ___year___, the year to test.
+Read $year$, the year to test.
 
 __Constraints__
 
-__1900 <= _year_ <= 10<sup>5</sup>__
+- $1900 \le year \le 10^{5}$
 
 __Output Format__
 
 The function must return a Boolean value (True/False). Output is handled by the provided code stub.
 
-__Sample Input 0__
+__Sample Input__
 
 ```
 1990
 ```
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 False
 ```
 
-__Explanation 0__
+__Explanation__
 
 1990 is not a multiple of 4 hence it's not a leap year
 

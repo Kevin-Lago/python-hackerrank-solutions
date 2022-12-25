@@ -10,10 +10,16 @@ __.ljust(width)__
 This method returns a left aligned string of length width.
 
 ```python
->>> width = 20
->>> print 'HackerRank'.ljust(width,'-')
-HackerRank----------  
+width = 20
+print('HackerRank'.ljust(width,'-'))
 ```
+
+prints
+
+```
+HackerRank----------
+```
+
 ---
 
 __.center(width)__
@@ -21,20 +27,34 @@ __.center(width)__
 This method returns a centered string of length width.
 
 ```python
->>> width = 20
->>> print 'HackerRank'.center(width,'-')
+width = 20
+print('HackerRank'.center(width,'-'))
+```
+
+prints
+
+```
 -----HackerRank-----
 ```
+
+---
 
 __.rjust(width)__
 
 This method returns a right aligned string of length width.
 
 ```python
->>> width = 20
->>> print 'HackerRank'.rjust(width,'-')
+width = 20
+print('HackerRank'.rjust(width,'-'))
 ----------HackerRank
 ```
+
+prints
+
+```
+----------HackerRank
+```
+
 ---
 
 __Task__
@@ -49,9 +69,9 @@ A single line containing the thickness value for the logo.
 
 __Constraints__
 
-The thickness must be an odd number.
+- The thickness must be an odd number.
 
-__0 < _thickness_ < 50
+- $0 < thickness < 50$
 
 __Sample Input__
 

@@ -5,7 +5,7 @@
 
 Mr. Vincent works in a door mat manufacturing company. One day, he designed a new door mat with the following specifications:
 
-- Mat size must be ___n * m___. (___n___ is an odd natural number, and ___m___ is __3__ times ___n___)
+- Mat size must be $n * m$. ($n$ is an odd natural number, and $m$ is $3$ times $n$)
 
 - The design should have 'WELCOME' written in the center.
 
@@ -39,13 +39,13 @@ __Sample Designs__
 
 __Input Format__
 
-A single line containing the space separated values of ___n___ and ___m___.
+A single line containing the space separated values of $n$ and $m$.
 
 __Constraints__
 
-- __5 < _n_ < 101__
+- $5 < n < 101$
 
-- __15 < _m_ < 303__
+- $15 < m < 303$
 
 __Output Format__
 

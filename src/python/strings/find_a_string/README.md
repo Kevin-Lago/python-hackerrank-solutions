@@ -1,11 +1,11 @@
 | <img width=1000>[Previous Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/strings/mutations)</img> | <img width=1000>[Home](https://github.com/Kevin-Lago/python-hackerrank-solutions)</img> | <img width=1000>[Next Question](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/strings/string_validators)</img> |
 |:---|:---:|---:|
 
-# Find a String
+# Find a string
 
 In this challenge, the user enters a string and substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
 
-__NOTE:__ String letters are case-sensitive.
+__Note:__ String letters are case-sensitive.
 
 __Input Format__
 
@@ -13,9 +13,9 @@ The first line of input contains the original string. The next line contains the
 
 __Constraints__
 
-__1 <= _len(string)_ <= 200__
+- $1 \le len(string) \le 200$
 
-Each character in the string is an ascii character.
+- Each character in the string is an ascii character.
 
 __Output Format__
 
@@ -40,7 +40,7 @@ Some string processing examples, [such as these](https://www.thelearningpoint.ne
 
 There are a couple of new concepts:
 
-In Python, the length of a string is found by the function ```len(s)```, where ___s___ is the string.
+In Python, the length of a string is found by the function ```len(s)```, where $s$ is the string.
 
 To traverse through the length of a string, use a for loop:
 
@@ -55,7 +55,7 @@ A range function is used to loop over some length:
 range(0, 5)
 ```
 
-Here, the range loops over __0__ to __4__. __5__ is excluded.
+Here, the range loops over $0$ to $4$. $5$ is excluded.
 
 ---
 
@@ -66,7 +66,7 @@ def count_substring(string, sub_string):
     substring_count = 0
 
     for i in range(len(string) - len(sub_string) + 1):
-        if (string[i:i + len(sub_string)] == sub_string):
+        if string[i:i + len(sub_string)] == sub_string:
             substring_count += 1
 
     return substring_count

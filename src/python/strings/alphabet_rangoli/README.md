@@ -3,7 +3,7 @@
 
 # Alphabet Rangoli
 
-You are given an integer, ___n___. Your task is to print an alphabet rangoli of size ___n___. (Rangoli is a form of indian folk art based on creating of patterns.)
+You are given an integer, $n$. Your task is to print an alphabet rangoli of size $n$. (Rangoli is a form of indian folk art based on creating of patterns.)
 
 Different sizes of alphabet rangoli are shown below:
 
@@ -51,7 +51,7 @@ j-i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i-j
 ------------------j------------------
 ```
 
-The center of the rangoli has the first alphabet letter a, and the boundary has the ___n<sup>th</sup>___ alphabet letter (in alphabetical order).
+The center of the rangoli has the first alphabet letter a, and the boundary has the $n^{th}$ alphabet letter (in alphabetical order).
 
 __Function description__
 
@@ -67,11 +67,11 @@ __Returns__
 
 __Input Format__
 
-Only one line of input containing ___size___, the size of the rangoli.
+Only one line of input containing $n$, the size of the rangoli.
 
 __Constraints__
 
-__0 < _size_ < 27__
+- $0 < n < 27$
 
 __Sample Input__
 

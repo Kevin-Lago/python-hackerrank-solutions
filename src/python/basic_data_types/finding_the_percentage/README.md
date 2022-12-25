@@ -29,7 +29,7 @@ __Constraints__
 
 - $0 \le marks[i] \le 100$
 
-- $length of marks array = 3$
+- $length of marks arrays = 3$
 
 __Output Format__
 

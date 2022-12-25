@@ -5,13 +5,13 @@
 
 Consider a list (```list = []```). You can perform the following commands:
 
-1. ```insert i e```: insert integer ___e___ at position ___i___.
+1. ```insert i e```: insert integer $e$ at position $i$.
 
 2. ```print```: Print the list
 
-3. ```remove e```: Delete the first occurrence of integer ___e___.
+3. ```remove e```: Delete the first occurrence of integer $e$.
 
-4. ```append e```: Insert integer ___e___ at the end of the list.
+4. ```append e```: Insert integer $e$ at the end of the list.
 
 5. ```sort```: Sort the list.
 
@@ -19,27 +19,27 @@ Consider a list (```list = []```). You can perform the following commands:
 
 7. ```reverse```: Reverse the list.
 
-Initialize your list and read in the value of ___n___ followed by ___n___ lines of commands where each command will be of __7__ types listed above. Iterate thrrough each command in order and perform the corresponding operation on your list.
+Initialize your list and read in the value of $n$ followed by $n$ lines of commands where each command will be of $7$ types listed above. Iterate through each command in order and perform the corresponding operation on your list.
 
 __Example__
 
-___n_ = 4__
+$n = 4$
 
-___append_ 1__
+$append 1$
 
-___append_ 2__
+$append 2$
 
-___insert 3 1___
+$insert 3 1$
 
-___print___
+$print$
 
-- ___append_ 1__: Append __1__ to the list, ___arr_ = [1]__.
+- $append 1$: Append $1$ to the list, $arr = [1]$.
 
-- ___append_ 2__: Append 2 to the list, ___arr_ = [1,2]__.
+- $append 2$: Append $2$ to the list, $arr = [1, 2]$.
 
-- ___insert_ 3 1__: Insert 3 at index __1__, ___arr_ = [1,3,2]__
+- $insert 3 1$: Insert $3$ at index $1$, $arr = [1, 3, 2]$
 
-- ___print_: Print the array.
+- $print$: Print the array.
 
     Output:
     
@@ -49,9 +49,9 @@ ___print___
 
 __Input Format__
 
-The first line contains an integer, ___n___, denoting the number of commands.
+The first line contains an integer, $n$, denoting the number of commands.
 
-Each line ___i___ of the ___n___ subsequent lines contains one of the commands described above.
+Each line $i$ of the $n$ subsequent lines contains one of the commands described above.
 
 __Constraints__
 
@@ -61,7 +61,7 @@ __Output Format__
 
 For each command of type ```print```, print the list on a new line.
 
-__Sample Input 0__
+__Sample Input__
 
 ```
 12
@@ -79,7 +79,7 @@ reverse
 print
 ```
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 [6, 5, 10]

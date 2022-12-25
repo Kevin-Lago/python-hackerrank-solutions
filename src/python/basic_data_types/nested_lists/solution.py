@@ -17,6 +17,6 @@ if __name__ == '__main__':
 
     second_lowest_grade = min(students, key=lambda s: s[1])[1]
 
-    for _ in range(n - 1):
-        if students[_][1] == second_lowest_grade:
-            print(students[_][0])
+    for i in range(n - 1):
+        if students[i][1] == second_lowest_grade:
+            print(students[i][0])

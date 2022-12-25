@@ -7,9 +7,9 @@ Kevin and Stuart want to play the '__The Minion Game__'.
 
 __Game Rules__
 
-Both players are given the same string, ___s___.
+Both players are given the same string, $s$.
 
-Both players have to make substrings using the letters of the string ___s___.
+Both players have to make substrings using the letters of the string $s$.
 
 Stuart has to make words starting with consonants.
 
@@ -19,11 +19,11 @@ The game ends when both players have made all possible substrings.
 
 __Scoring__
 
-A player gets +1 point for each occurrence of the substring in the string ___s___.
+A player gets +1 point for each occurrence of the substring in the string $s$.
 
 __For Example:__
 
-String ___s___ = BANANA
+String $s$ = BANANA
 
 Kevin's vowel beginning word = ANA
 
@@ -49,13 +49,13 @@ __Prints__
 
 __Input Format__
 
-A single line of input containing the string ___s___.
+A single line of input containing the string $s$.
 
-__Note:__ The string ___s___ will contain only uppercase letters: __[A-Z]__.
+__Note:__ The string $s$ will contain only uppercase letters: $[A-Z]$.
 
 __Constraints__
 
-__0 <= _len(s)_ <= 10<sup>6</sup>__
+- $0 < len(s \le 10^{6})$
 
 __Sample Input__
 

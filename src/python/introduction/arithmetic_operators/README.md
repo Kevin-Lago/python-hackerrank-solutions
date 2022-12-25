@@ -5,7 +5,7 @@
 
 __Task__
 
-The provided code stub reads two integers from STDIN, ___a___ and ___b___. Add code to print three lines where:
+The provided code stub reads two integers from STDIN, $a$ and $b$. Add code to print three lines where:
 
 1. The first line contains the sum of the two numbers.
 
@@ -15,9 +15,9 @@ The provided code stub reads two integers from STDIN, ___a___ and ___b___. Add c
 
 __Example__
 
-___a_ = 3__
+$a = 3$
 
-___b_ = 5__
+$b = 5$
 
 Print the following:
 
@@ -29,15 +29,15 @@ Print the following:
 
 __Input Format__
 
-The first line contains the first integer, ___a___.
+The first line contains the first integer, $a$.
 
-The second line contains the second integer, ___b___.
+The second line contains the second integer, $b$.
 
 __Constraints__
 
-__1 <= _a_ <= 10<sup>10</sup>__
+- $1 \le a \le 10^{10}$
 
-__1 <= _b_ <= 10<sup>10</sup>__
+- $1 \le b \le 10^{10}$
 
 __Output Format__
 
@@ -60,23 +60,23 @@ __Sample Output 0__
 
 __Explanation__
 
-__3 + 2 = 5__
+$3 + 2 = 5$
 
-__3 - 1 = 1__
+$3 - 2 = 1$
 
-__3 * 2 = 6__
+$3 * 2 = 6$
 
 ---
 
 <details><summary>Solution</summary>
     
 ```python
-    if __name__ == '__main__':
-        a = int(input())
-        b = int(input())
-    
-        print(a + b)
-        print(a - b)
-        print(a * b)
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+
+    print(a + b)
+    print(a - b)
+    print(a * b)
 ```
 </details>

@@ -12,20 +12,32 @@ You are given an immutable string, and you want to make changes to it.
 __Example__
 
 ```python
->>> string = "abracadabra"
+string = "abracadabra"
 ```
 
 You can access an index by:
 
 ```python
->>> print string[5]
+string = "abracadabra"
+print(string[5])
+```
+
+prints
+
+```
 a
 ```
 
 What if you would like to assign a value?
 
 ```python
->>> string[5] = 'k' 
+string = "abracadabra"
+string[5] = 'k'
+```
+
+prints
+
+```
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: 'str' object does not support item assignment
@@ -38,23 +50,36 @@ How would you approach this?
 __Example__
 
 ```python
->>> string = "abracadabra"
->>> l = list(string)
->>> l[5] = 'k'
->>> string = ''.join(l)
->>> print string
+string = "abracadabra"
+l = list(string)
+l[5] = 'k'
+string = ''.join(l)
+print(string)
+```
+
+prints
+
+```
 abrackdabra
 ```
 
 - Another approach is to slice the string and join it back.
 
-Example
+__Example__
 
 ```python
->>> string = string[:5] + "k" + string[6:]
->>> print string
+string = "abracadabra"
+string = string[:5] + "k" + string[6:]
+print(string)
+```
+
+prints
+
+```
 abrackdabra
 ```
+
+---
 
 __Task__
 
@@ -78,9 +103,9 @@ __Returns__
 
 __Input Format__
 
-The first line contains a string, ___string___.
+The first line contains a string, $string$.
 
-The next line contains an integer ___position___, the index location and a string ___character___, separated by a space.
+The next line contains an integer $position$, the index location and a string $character$, separated by a space.
 
 __Sample Input__
 

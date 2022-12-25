@@ -5,23 +5,23 @@
 
 __Task__
 
-Given an integer, _n_, perform the following conditional actions:
+Given an integer, $n$, perform the following conditional actions:
 
-- If _n_ is odd, print ```Weird```
+- If $n$ is odd, print ```Weird```
 
-- If _n_ is even and in the inclusive range of __2__ to __5__, print ```Weird```
+- If $n$ is even and in the inclusive range of $2$ to $5$, print ```Not Weird```
 
-- If _n_ is even and in the inclusive range of __6__ to __20__, print ```Weird```
+- If $n$ is even and in the inclusive range of $6$ to $20$, print ```Weird```
 
-- If _n_ is even and greater than __20__, print ```Not Weird```
+- If $n$ is even and greater than $20$, print ```Not Weird```
 
 __Input Format__
 
-A single line containing a positive integer, _n_.
+A single line containing a positive integer, $n$.
 
 __Constraints__
 
-- 1 <= _n_ <= 100
+- $1 \le n \le 100$
 
 __Output Format__
 
@@ -41,9 +41,9 @@ Weird
 
 __Explanation 0__
 
-___n_ = 3__
+$n = 3$
 
-___n___ is odd and odd numbers are weird, so print ```Weird```
+$n$ is odd and odd numbers are weird, so print ```Weird```
 
 __Sample Input 1__
 
@@ -59,9 +59,9 @@ Not Weird
 
 __Explanation 1__
 
-___n_ = 24__
+$n = 24$
 
-___n_ > 20__ and ___n___ is even, so it is not weird.
+$n > 20$ and $n$ is even, so it is not weird.
 
 ---
 

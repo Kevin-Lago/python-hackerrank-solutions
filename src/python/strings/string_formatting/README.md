@@ -3,7 +3,7 @@
 
 # String Formatting
 
-Given an integer, ___n___, print the following values for each integer ___i___ from __1__ to ____n____:
+Given an integer, $n$, print the following values for each integer $i$ from $1$ to $n$:
 
 1. Decimal
 
@@ -23,15 +23,15 @@ print_formatted has the following parameters:
 
 __Prints__
 
-The four values must be printed on a single line in the order specified above for each ___i___ from __1__ to ___number___. Each value should be space-padded to match the width of the binary value of ___number___ and the values should be separated by a single space.
+The four values must be printed on a single line in the order specified above for each $i$ from $1$ to $n$. Each value should be space-padded to match the width of the binary value of $n$ and the values should be separated by a single space.
 
 __Input Format__
 
-A single integer denoting ___n___.
+A single integer denoting $n$.
 
 __Constraints__
 
-- __1 <= _n_ <= 99__
+- $1 \le n \le 99$
 
 __Sample Input__
 

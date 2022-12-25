@@ -3,9 +3,9 @@
 
 # Text Wrap
 
-You are given a string ___string___ and width ___max_width___.
+You are given a string $s$ and width $w$.
 
-Your task is to wrap the string into a paragraph of width ___w___.
+Your task is to wrap the string into a paragraph of width $w$.
 
 __Function Description__
 
@@ -23,24 +23,24 @@ __Returns__
 
 __Input Format__
 
-The first line contains a string, ___string___.
+The first line contains a string, $s$.
 
-The second line contains the width, ___max_width___.
+The second line contains the width, $w$.
 
 __Constraints__
 
-- __0 < _len(string)_ < 1000__
+- $0 < len(s) < 1000$
 
-- __0 < _max_width_ < len(string)__
+- $0 < w < len(s)$
 
-__Sample input 0__
+__Sample input__
 
 ```
 ABCDEFGHIJKLIMNOQRSTUVWXYZ
 4
 ```
 
-__Sample Output 0__
+__Sample Output__
 
 ```
 ABCD

@@ -1,12 +1,8 @@
 import os
 
 
-# Complete the solve function below.
 def solve(s):
-    s = " ".join(s[:1].upper() + s[1:] for s in s.split(" "))
-
-    print(s)
-    return s
+    return " ".join(s[:1].upper() + s[1:] for s in s.split(" "))
 
 
 if __name__ == '__main__':
