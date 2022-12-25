@@ -141,8 +141,8 @@
 
 <h3>Closures and Decorators</h3>
 
-- [x] [Standardize Mobile Number Using Decorators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/closures_and_decorators)
-- [x] [Decorators 2 - Name Directory](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/closures_and_decorators)
+- [x] [Standardize Mobile Number Using Decorators](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/closures_and_decorators/standardize_mobile_number_using_decorators)
+- [x] [Decorators 2 - Name Directory](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/python/closures_and_decorators/decorators_2_name_directory)
 
 <h3>Numpy</h3>
 
