@@ -76,11 +76,11 @@ __Explanation__
 
 Split $s$ into $n / k = 9 / 3 = 3$ equal parts of length $k = 3$. Convert each $t_{i}$ to $u_{i}$ by removing any subsequent occurrences of non-distinct characters in $t_{i}$:
 
-1. $t_{0} = "AAB" -> u_{0} = "AB"$
+1. $t_{0} = "AAB" => u_{0} = "AB"$
 
-2. $t_{1} = "CAA" -> u_{1} = "CA"$
+2. $t_{1} = "CAA" => u_{1} = "CA"$
 
-3. $t_{2} = "ADA" -> u_{2} = "AD"$
+3. $t_{2} = "ADA" => u_{2} = "AD"$
 
 Print each $u_{i}$ on a new line. 
 
