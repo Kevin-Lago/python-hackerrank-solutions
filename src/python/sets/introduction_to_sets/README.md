@@ -10,25 +10,72 @@ When printed, iterated or converted into a sequence, its elements will appear in
 __Example__
 
 ```python
->>> print set()
+print(set())
+```
+
+prints
+
+```
 set([])
+```
 
->>> print set('HackerRank')
+```python
+print(set('HackerRank'))
+```
+
+prints
+
+```
 set(['a', 'c', 'e', 'H', 'k', 'n', 'r', 'R'])
+```
 
->>> print set([1,2,1,2,3,4,5,6,0,9,12,22,3])
+```python
+print(set([1,2,1,2,3,4,5,6,0,9,12,22,3]))
+```
+
+prints
+
+```
 set([0, 1, 2, 3, 4, 5, 6, 9, 12, 22])
+```
 
->>> print set((1,2,3,4,5,5))
+```python
+print(set((1,2,3,4,5,5)))
+```
+
+prints
+
+```
 set([1, 2, 3, 4, 5])
+```
 
->>> print set(set(['H','a','c','k','e','r','r','a','n','k']))
+```python
+print(set(set(['H','a','c','k','e','r','r','a','n','k'])))
+```
+
+prints
+
+```
 set(['a', 'c', 'r', 'e', 'H', 'k', 'n'])
+```
 
->>> print set({'Hacker' : 'DOSHI', 'Rank' : 616 })
+```python
+print(set({'Hacker' : 'DOSHI', 'Rank' : 616 }))
+```
+
+prints
+
+```
 set(['Hacker', 'Rank'])
+```
 
->>> print set(enumerate(['H','a','c','k','e','r','r','a','n','k']))
+```python
+print(set(enumerate(['H','a','c','k','e','r','r','a','n','k'])))
+```
+
+prints
+
+```
 set([(6, 'r'), (7, 'a'), (3, 'k'), (4, 'e'), (5, 'r'), (9, 'k'), (2, 'c'), (0, 'H'), (1, 'a'), (8, 'n')])
 ```
 
@@ -42,7 +89,7 @@ Ms. Gabriel Williams is a botany professor at District College. One day, he aske
 
 Formula used:
 
-___Average___ = ___Sum of Distinct Heights___ / ___Total Number of Distinct Heights___
+$Average = Sum of Distinct Heights / Total Number of Distinct Heights$
 
 __Function Description__
 
@@ -58,13 +105,13 @@ __Returns__
 
 __Input Format__
 
-The first line contains the integer, ___n___, the size of ___arr___
+The first line contains the integer, $n$, the size of $arr$
 
-The second line contains the ___n___ space-separated integers, ___arr[i]___
+The second line contains the $n$ space-separated integers, $arr[i]$
 
 __Constraints__
 
-__0 < _n_ <= 100__
+- $0 < n \le 100$
 
 __Sample Input__
 
@@ -83,9 +130,9 @@ __Sample Output__
 
 __Explanation__
 
-Here, set(__[154,161,167,170,171,174,176,182]__) is the set containing the distinct heights. Using the sum() and len() functions, we can compute the average.
+Here, set($[154,161,167,170,171,174,176,182]$) is the set containing the distinct heights. Using the sum() and len() functions, we can compute the average.
 
-___Average_ = 1355 / 8 = 169.375__
+$Average = 1355 / 8 = 169.375$
 
 ---
 
