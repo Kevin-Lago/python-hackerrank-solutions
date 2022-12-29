@@ -3,7 +3,7 @@
 
 # Solve Me First
 
-Complete the function solveMeFirst to compute the sum of two integers.
+Complete the function solve_me_first to compute the sum of two integers.
 
 __Example__
 
@@ -15,9 +15,9 @@ return $10$
 
 __Function Description__
 
-Complete the solveMeFirst function in the editor below.
+Complete the solve_me_first function in the editor below.
 
-solveMeFirst has the following parameters:
+solve_me_first has the following parameters:
 
 - int a: the first value
 
