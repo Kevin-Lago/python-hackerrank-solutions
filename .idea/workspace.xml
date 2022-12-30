@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/warmup/staircase/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_solving/warmup/staircase/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/warmup/staircase/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\warmup\diagonal_difference" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (3)">
+  <component name="RunManager" selected="Python.solution (4)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-hackerrank-solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-hackerrank-solutions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,34 +156,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-hackerrank-solutions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/problem_solving/warmup/compare_the_triplets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/problem_solving/warmup/compare_the_triplets/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (5)" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -209,49 +209,49 @@
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1671341257439" />
     <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1669856194923" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1672421625680">
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1672422916985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421625680" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422916985" />
     <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575610" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1672421625680">
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1672422916985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421625680" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422916985" />
     <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575610" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1672421625680">
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1672422916985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421625680" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422916985" />
     <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575610" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1672421625680">
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1672422916985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1654" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1669829985097" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421625680" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422916985" />
     <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575610" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1672421518658">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1672422913348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421518658" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422913348" />
     <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575980" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1672421518658">
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1672422913347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421518658" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422913347" />
     <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575980" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1672421518658">
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1672422913347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421518658" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422913347" />
     <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575980" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1672421518658">
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1672422913347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672421518658" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1672422913347" />
     <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1671516575980" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1671342634974">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -496,6 +496,11 @@
           <url>file://$PROJECT_DIR$/src/python/math/polar_coordinates/solution.py</url>
           <line>8</line>
           <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/problem_solving/warmup/mini_max_sum/solution.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="328" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
