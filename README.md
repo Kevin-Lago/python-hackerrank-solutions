@@ -170,5 +170,211 @@
 
 <details><summary><h2>Problem Solving</h2></summary>
 
+<h3>Warmup</h3>
 
+- [Solve Me First](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/solve_me_first)
+- [Simple Array Sum](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/simple_array_sum)
+- [Compare the Triplets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/compare_the_triplets)
+- [A Very Big Sum](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/a_very_big_sum)
+- [Diagonal Difference](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/diagonal_difference)
+- [Plus Minus](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/plus_minus)
+- [Staircase](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/staircase)
+- [Mini-Max Sum](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/mini_max_sum)
+- [Birthday Cake Candles](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/birthday_cake_candles)
+- [Time Conversion](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/warmpup/time_conversion)
+
+<h3>Implementation</h3>
+
+- [Between Two Sets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/between_two_sets)
+- [Grading Students](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/grading_students)
+- [Apple and Orange](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/apple_and_orange)
+- [Number Line Jumps](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/number_line_jumps)
+- [Breaking the Records](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/breaking_the_records)
+- [Subarray Division](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/subarray_division)
+- [Divisible Sum Pairs](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/divisible_sum_pairs)
+- [Migratory Birds](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/migratory_birds)
+- [Day of the Programmer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/day_of_the_programmer)
+- [Bill Division](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/bill_division)
+- [Sales by Match](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/sales_by_match)
+- [Drawing Book](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/drawing_book)
+- [Counting Valleys](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/counting_valleys)
+- [Electronics Shop](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/electronics_shop)
+- [Cats and a Mouse](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/cats_and_a_mouse)
+- [Forming a Magic Square](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/forming_a_magic_square)
+- [Picking Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/picking_numbers)
+- [Climbing the Leaderboard](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/climbing_the_leaderboard)
+- [The Hurdle Race](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/the_hurdle_race)
+- [Designer PDF Viewer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/designer_pdf_viewer)
+- [Utopian Tree](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/uptopian_tree)
+- [Angry Professor](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/angry_professor)
+- [Beautiful Days at the Movies](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/beautiful_days_at_the_movies)
+- [Viral Advertising](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/viral_advertising)
+- [Save the Prisoner!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/save_the_prisoner)
+- [Circular Array Rotation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/circular_array_rotation)
+- [Sequence Equation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/sequence_equation)
+- [Jumping on the Clouds: Revisited](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/jumping_on_the_clouds_revisited)
+- [Find Digits](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/find_digits)
+- [Extra Long Factorials](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/extra_long_factorials)
+- [Append and Delete](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/append_and_delete)
+- [Sherlock and Squares](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/sherlock_and_squares)
+- [Library Fine](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/library_fine)
+- [Cut the sticks](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/cut_the_sticks)
+- [Non-Divisible Subset](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/non_divisible_sum)
+- [Repeated String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/repeated_string)
+- [Jumping on the Clouds](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/jumping_on_the_clouds)
+- [Equalize the Array](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/equalize_the_array)
+- [Queen's Attack II](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/queens_attack_ii)
+- [ACM ICPC Team](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/acm_icpc_team)
+- [Taum and B'day](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/taum_and_b_day)
+- [Organizing Containers of Balls](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/organizing_container_of_balls)
+- [Encryption](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/encryption)
+- [Bigger is Greater](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/bigger_is_greater)
+- [Modified Kaprekar Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/modified_kaprekar_numbers)
+- [Beautiful Triplets](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/beautiful_triplets)
+- [Minimum Distances](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/minimum_distances)
+- [Halloween Sale](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/halloween_sale)
+- [The Time in Words](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/the_time_in_words)
+- [Chocolate Feast](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/chocolate_feast)
+- [Service Lane](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/service_lane)
+- [Lisa's Workbook](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/lisas_workbook)
+- [Flatland Space Stations](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/flatland_space_stations)
+- [Fair Rations](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/fair_rations)
+- [Cavity Map](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/cavity_map)
+- [Manasa and Stones](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/manasa_and_stones)
+- [The Grid Search](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/the_grid_search)
+- [Happy Ladybugs](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/happy_ladybugs)
+- [Strange Counter](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/strange_counter)
+- [3D Surface Area](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/3d_surface_area)
+- [Absolute Permutation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/absolute_permutation)
+- [The Bomberman Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/the_bomberman_game)
+- [Ema's Supercomputer](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/emas_supercomputer)
+- [Larry's Array](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/larrys_array)
+- [Almost Sorted](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/almost_sorted)
+- [Matrix Layer Rotation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/implementation/matrix_layer_rotation)
+
+<h3>Strings</h3>
+
+- [Super Reduced String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/super_reduced_string)
+- [CamelCase](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/camelcase)
+- [Strong Password](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/strong_password)
+- [Two Characters](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/two_characters)
+- [Caesar Cipher](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/caesar_cipher)
+- [Mars Exploration](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/mars_exploration)
+- [HackerRank in a String!](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/hackerrank_in_a_string)
+- [Pangrams](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/pangrams)
+- [Weighted Uniform Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/weighted_uniform_strings)
+- [Separate the Numbers](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/separate_the_numbers)
+- [Funny String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/funny_string)
+- [Gemstones](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/gemstones)
+- [Alternating Characters](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/alertnating_characters)
+- [Beautiful Binary String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/beautiful_binary_string)
+- [The Love-Letter Mystery](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/the_love_letter_mystery)
+- [Determining DNA Health](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/determining_dna_health)
+- [Palindrome Index](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/palindrome_index)
+- [Anagram](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/anagram)
+- [Making Anagrams](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/making_anagrams)
+- [Game of Thrones - I](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/game_of_thrones_i)
+- [Two Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/two_strings)
+- [String Construction](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/string_construction)
+- [Sherlock and the Valid String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/sherlock_and_the_valid_string)
+- [Highest Value Palindrome](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/heighest_value_palindrome)
+- [Maximum Palindromes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/maximum_planidromes)
+- [Sherlock and Anagrams](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/sherlock_and_anagrams)
+- [Common Child](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/common_child)
+- [Bear and Steady Gene](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/bear_and_steady_gene)
+- [Morgan and a String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/morgan_and_a_string)
+- [Count Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/count_strings)
+- [String Function Calculation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/string_function_calculation)
+- [Build a Palindrome](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/build_a_palindrome)
+- [Build a String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/build_a_string)
+- [Gridland Provinces](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/gridland_provinces)
+- [Cards Permutation](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/cards_permutation)
+- [Ashton and String](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/ashton_and_string)
+- [String Similarity](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/string_similarity)
+- [Super Functional Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/super_functional_strings)
+- [Circular Palindromes](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/circular_palindrome)
+- [Similar Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/similar_strings)
+- [Save Humanity](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/save_humanity)
+- [Find Strings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/find_strings)
+- [Palindromic Border](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/plaindromic_border)
+- [Two Two](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/two_two)
+- [Two Strings Game](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/two_strings_game)
+- [Letter Islands](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/letter_island)
+- [Pseudo-Isomorphic Substrings](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/pseudo_isomorphic_substrings)
+- [How Many Substrings?](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/strings/how_many_substrings)
+
+<h3>Sorting</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/sorting/)
+
+<h3>Search</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/search/)
+
+<h3>Graph Theory</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/graph_theory/)
+
+<h3>Greedy</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/greedy/)
+
+<h3>Dynamic Programming</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/dynamic_programming)
+
+<h3>Constructive Algorithms</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/constructive_algorithms)
+
+<h3>Bit Manipulation</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/bit_manipulation/)
+
+<h3>Recursion</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/recursion/)
+
+<h3>Game Theory</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/game_theory/)
+
+<h3>NP Complete</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/np_complete/)
+
+<h3>Debugging</h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/problem_solving/debugging/)
+</details>
+
+<details><summary><h2>Mathematics</h2></summary>
+
+<h3></h3>
+
+- [](https://github.com/Kevin-Lago/python-hackerrank-solutions/tree/main/src/mathematics/)
+
+<h3></h3>
+
+- []()
+
+<h3></h3>
+
+- []()
+
+<h3></h3>
+
+- []()
+
+<h3></h3>
+
+- []()
+
+<h3></h3>
+
+- []()
+
+<h3></h3>
+
+- []()
 </details>
