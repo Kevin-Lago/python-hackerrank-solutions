@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a1c37b-d6d2-42b2-95de-9b353f1514a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/day_of_the_programmer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/day_of_the_programmer/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/manasa_and_stones/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/matrix_layer_rotation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/minimum_distances/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/modified_kaprekar_numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/non_divisible_subset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/organizing_containers_of_balls/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/picking_numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/queens_attack_ii/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/repeating_string/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/sales_by_match/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/save_the_prisoner/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/sequence_equation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/service_lane/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/sherlock_and_squares/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/strange_counter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/taum_and_b_day/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/the_bomberman_game/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/the_grid_search/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/the_hurdle_race/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/the_time_in_words/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/utopian_tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_solving/implementation/viral_advertising/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-hackerrank-solutions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathematics/fundamentals/find_the_point/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathematics/fundamentals/find_the_point/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +31,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/problem_solving/implementation/manasa_and_stones" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/mathematics" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\mathematics" />
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\implementation\manasa_and_stones" />
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\implementation\viral_advertising" />
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\implementation\matrix_layer_rotation" />
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\implementation\minimum_distances" />
-      <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\implementation\modified_kaprekar_numbers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Kevin\Desktop\coding\python\vanilla\python-hackerrank-solutions\src\problem_solving\debugging" />
